@@ -1,1 +1,3 @@
-gem "jekyll-athena"
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-athena'
