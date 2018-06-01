@@ -2,9 +2,6 @@
 title: Benjamin Lupton's Notes
 timezone: UTC
 collections:
-  pages:
-    title: Pages
-    output: true
   posts:
     title: Posts
     output: true
