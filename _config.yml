@@ -20,6 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
+url: https://notes.balupton.com
 description: A place for my notes
 github_repo: notes
 github_username: balupton
