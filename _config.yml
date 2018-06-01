@@ -21,8 +21,8 @@ defaults:
   values:
     layout: page
 description: A place for my notes
-github_repo: balupton
-github_username: notes
+github_repo: notes
+github_username: balupton
 theme_color: light
 markdown: kramdown
 remote_theme: broccolini/athena
