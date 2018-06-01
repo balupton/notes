@@ -34,7 +34,7 @@ Using Codemirror to build Typora
 
 Using Ace to build Typora
 - [Stack Edit](https://stackedit.io/editor) - similar to HackMD, built on ace
-- [Classeur](http://classeur.io) - built by StackEdit people, built on https://github.com/classeur/cledit 
+- [Classeur](http://classeur.io) - built by StackEdit people, built on [Classeur: Cledit](https://github.com/classeur/cledit)
 
 Collaboration
 - [Draft JS: Github Issue #93](https://github.com/facebook/draft-js/issues/93) - draft doesn’t have collab, prosemirror already has collab
