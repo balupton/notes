@@ -22,8 +22,8 @@ Notes
 - [Medley Text](http://medleytext.net) - similar to typora
 
 Using Draft to build Typora
-- https://github.com/ngs/draft-js-markdown-shortcuts-plugin plugin for draft
-- https://github.com/nteract/nteract editor built upon draft based on widgets
+- <https://github.com/ngs/draft-js-markdown-shortcuts-plugin> plugin for draft
+- <https://github.com/nteract/nteract> editor built upon draft based on widgets
 
 Using Codemirror to build Typora
 - [HackMD](https://github.com/hackmdio/hackmd)
