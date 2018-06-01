@@ -1,4 +1,4 @@
 - Repo: https://github.com/balupton/notes
-- Website: https://balupton.github.io/notes/
+- Website: https://notes.balupton.com
 - Edit: https://prose.io/#balupton/notes
 - Theme: https://github.com/broccolini/athena
