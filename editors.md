@@ -22,19 +22,19 @@ Notes
 - [Medley Text](http://medleytext.net) - similar to typora
 
 Using Draft to build Typora
-- <https://github.com/ngs/draft-js-markdown-shortcuts-plugin> plugin for draft
-- <https://github.com/nteract/nteract> editor built upon draft based on widgets
+- [Draft JS: Markdown Shortcuts Plugin](https://github.com/ngs/draft-js-markdown-shortcuts-plugin) - plugin for draft
+- [nteract](https://github.com/nteract/nteract) - editor built upon draft based on widgets
 
 Using Codemirror to build Typora
 - [HackMD](https://github.com/hackmdio/hackmd)
 - [Prose](https://github.com/prose/prose)
-- https://codemirror.net/demo/variableheight.html codemirror supports this
-- https://codemirror.net/mode/markdown/
-- https://codemirror.net/mode/gfm/index.html
+- [Code Mirror: Variable Height](https://codemirror.net/demo/variableheight.html) - codemirror supports this
+- [Code Mirror: Markdown Mode](https://codemirror.net/mode/markdown/)
+- [Code Mirror: GFM Mode](https://codemirror.net/mode/gfm/index.html)
 
 Using Ace to build Typora
-- https://stackedit.io/editor similar to HackMD, built on ace
-- http://classeur.io built by StackEdit people, built on https://github.com/classeur/cledit 
+- [Stack Edit](https://stackedit.io/editor) - similar to HackMD, built on ace
+- [Classeur](http://classeur.io) - built by StackEdit people, built on https://github.com/classeur/cledit 
 
 Collaboration
-- https://github.com/facebook/draft-js/issues/93 - draft doesn’t have collab, prosemirror already has collab
+- [Draft JS: Github Issue #93](https://github.com/facebook/draft-js/issues/93) - draft doesn’t have collab, prosemirror already has collab
