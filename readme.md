@@ -1,0 +1,3 @@
+- Repo: https://github.com/balupton/notes
+- Website: https://balupton.github.io/notes/
+- Edit: https://prose.io/#balupton/notes
