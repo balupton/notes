@@ -1,6 +1,7 @@
 ---
 title: Crypto Resources
-date: 2018-06-01 20:35:00 Z
+date: 2017-12-12T00:00:00.000Z
+published: true
 ---
 
 ## Resources:
