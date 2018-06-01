@@ -1,6 +1,11 @@
 ---
 title: Benjamin Lupton's Notes
-timezone: UTC
+description: A place for my notes
+github_repo: balupton
+github_username: notes
+theme_color: light
+markdown: kramdown
+
 collections:
   posts:
     title: Posts
@@ -22,3 +27,4 @@ defaults:
     layout: page
 remote_theme: broccolini/athena
 permalink: pretty
+timezone: UTC
