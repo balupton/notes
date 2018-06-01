@@ -9,7 +9,7 @@ Winner:
 
 Runner Up:
 
-* https://www.netgear.com/orbi/ - fastest and bulky
+* [Netgear Orbi](https://www.netgear.com/orbi/) - fastest and bulky
 
 Production ready losers:
 
