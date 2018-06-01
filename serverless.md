@@ -1,6 +1,7 @@
 ---
 title: Serverless
-date: 2017-08-04
+date: 2017-01-16T00:00:00.000Z
+published: true
 ---
 
 ## Summary
@@ -235,4 +236,3 @@ date: 2017-08-04
 - https://github.com/firebase/functions-samples/tree/master/stripe 
 - https://github.com/firebase/functions-samples/tree/master/github-to-slack
 - https://github.com/search?p=7&q=%22firebase-functions%22+%22functions.config%22&type=Code&utf8=✓
-
