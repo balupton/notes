@@ -1,14 +1,15 @@
 ---
 title: CSS in Javascript
-date: 2017-04-18
+date: {}
+published: true
 ---
 
-- http://fela.js.org - winner, best docs, community, and ecosystem
-- https://github.com/FormidableLabs/radium
-- https://github.com/MicheleBertoli/css-in-js
-- https://github.com/threepointone/glamor
-- https://github.com/cssobj/cssobj
-- https://github.com/jakecoxon/babel-plugin-css-to-js
-- https://github.com/rtsao/stylematic
-- http://styletron.js.org
-- https://github.com/Khan/aphrodite 
+- [Fela](http://fela.js.org) - winner, best docs, community, and ecosystem
+- [Radium](https://github.com/FormidableLabs/radium)
+- [CSS in JS](https://github.com/MicheleBertoli/css-in-js)
+- [Glamor](https://github.com/threepointone/glamor)
+- [CSS Obj](https://github.com/cssobj/cssobj)
+- [Babel Plugin: CSS to JS](https://github.com/jakecoxon/babel-plugin-css-to-js)
+- [Stylematic](https://github.com/rtsao/stylematic)
+- [Styletron](http://styletron.js.org)
+- [Aphrodite](https://github.com/Khan/aphrodite)
