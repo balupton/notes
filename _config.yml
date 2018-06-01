@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-theme: jekyll-athena
+remote_theme: broccolini/athena
 permalink: pretty
