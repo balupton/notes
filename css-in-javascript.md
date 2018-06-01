@@ -1,6 +1,6 @@
 ---
 title: CSS in Javascript
-date: {}
+date: 2017-03-17T00:00:00.000Z
 published: true
 ---
 
