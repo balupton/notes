@@ -1,8 +1,6 @@
 ---
 title: Benjamin Lupton's Notes
 timezone: UTC
-theme: jekyll-athena
-permalink: pretty
 collections:
   posts:
     title: Posts
@@ -22,3 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+theme: jekyll-athena
+permalink: pretty
