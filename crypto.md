@@ -1,5 +1,5 @@
 ---
-title: Crypto Resources
+title: Crypto
 date: 2017-12-12T00:00:00.000Z
 published: true
 ---
