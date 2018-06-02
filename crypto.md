@@ -155,7 +155,7 @@ published: true
 
 ## Indicators
 
-* [Indicators.jl)](https://github.com/dysonance/Indicators.jl) - julia, has renko
+* [Indicators.jl](https://github.com/dysonance/Indicators.jl) - julia, has renko
 * [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) - julia
 * [React Stockcharts](https://github.com/rrag/react-stockcharts/blob/master/src/lib/calculator/renko.js) - javascript, has renko
 * [Technical Indicators](https://github.com/anandanand84/technicalindicators) - typescript, has renko
