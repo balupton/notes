@@ -5,7 +5,7 @@ date: 2018-02-26
 
 ## Sources
 
-* https://www.mobilereviews-eh.ca/waterproof-iphone-6-case-review-comparisons/ 
+* <https://www.mobilereviews-eh.ca/waterproof-iphone-6-case-review-comparisons/>
 * https://www.youtube.com/watch?v=fJFQuznI5fs
 * https://www.youtube.com/watch?v=3Pfumfi3p_c
 
