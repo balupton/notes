@@ -1,5 +1,6 @@
 ---
 title: Electric Bikes
+published: true
 ---
 
 Note that international shipping will likely be an additional $600 to $1000 for small bikes, and more for bigger bikes.
@@ -19,7 +20,10 @@ Note that international shipping will likely be an additional $600 to $1000 for 
 - [Super 73 S1 Black](https://www.lithiumcycles.com/collections/super-73-north-america/products/super73-s1-black)
 - [Super 73 S1 White](https://www.lithiumcycles.com/collections/super-73-north-america/products/super73-s1-white)
 
+### [Cake](https://ridecake.com)
+
+- [Kalk](https://ridecake.com/shop/bikes/kalk/) €14,000 - 80km range, 70km/h, 70kg weight
+
 ## Small & Large Bikes
 
 ### [Zero Motorcycles](https://www.zeromotorcycles.com)
-
