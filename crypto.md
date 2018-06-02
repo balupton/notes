@@ -1,6 +1,6 @@
 ---
 title: Crypto
-date: 2017-12-12T00:00:00.000Z
+date: {}
 published: true
 ---
 
@@ -94,6 +94,8 @@ published: true
 
 * [BRD](https://brd.com)
 
+* [Circle: Pay](https://www.circle.com/en/pay) - [referral](https://balupton.com/circle)
+
 * [Luno Wallet](https://www.luno.com) - [referral](https://balupton.com/luno)
 
 * [Uphold](https://uphold.com) - [referral](https://balupton.com/uphold)
@@ -101,6 +103,8 @@ published: true
 ## Exchanges:
 
 * [Coinigy](https://www.coinigy.com)
+
+* [Circle: Trade](https://www.circle.com/en/trade)
 
 * [Lykke](https://www.lykke.com)
 
@@ -126,11 +130,11 @@ published: true
 
 * [OKCoin](https://okcoin.com)
 
-* [GDAX](https://gdax.com)
+* [GDAX](https://gdax.com) - [referral](https://balupton.com/coinbase)
 
 * [Kraken](https://kraken.com)
 
-* [Quoinex](https://quoinex.com)
+* [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
 
 * [Bitfinex](https://bitfinex.com)
 
@@ -142,9 +146,11 @@ published: true
 
 ## Trackers:
 
+* [Cryptofinance for Google Sheets](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14)
+
 * [Coindex](https://coindexapp.com/?ref=producthunt)
 
-* [Crypto Pro](http://applewatchbitcoin.com)
+* [Crypto Pro for iOS and Apple Watch](http://applewatchbitcoin.com)
 
 ## Convert & Transfer:
 
@@ -168,7 +174,7 @@ published: true
 
 * [Bitwise Investments](https://www.bitwiseinvestments.com)
 
-* [Circle: Buy The Market](https://blog.circle.com/2018/05/22/buy-the-market/?ref=producthunt)
+* [Circle: Invest](https://www.circle.com/en/invest)
 
 * [Crypto20](https://crypto20.com)
 
