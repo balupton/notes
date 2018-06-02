@@ -230,8 +230,8 @@ published: true
 * [Coinbase Custody](https://custody.coinbase.com)
 * [Coinbase Prime](https://prime.coinbase.com)
 * [Hydrogen Platform](https://www.hydrogenplatform.com)
-* [Ripple](https://ripple.com) - [Wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
-* [Stellar](https://www.stellar.org)
+* [Ripple](https://ripple.com) - [wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+* [Stellar](https://www.stellar.org) - [wikipedia](https://en.wikipedia.org/wiki/Stellar_(payment_network))
 
 ## DAPPs
 
