@@ -43,6 +43,7 @@ published: true
 
 * [Blockchain Curated](https://www.blockchaincurated.com)
 * [Coinbuzz](https://coinbuzz.stream)
+* [Coined](http://coined.news)
 * [Coinmarket Cal](http://coinmarketcal.com)
 * [Crypto Panic](https://cryptopanic.com)
 * [Kyro](https://kyro.com/)
@@ -209,11 +210,15 @@ published: true
 ### Signals
 
 * [Coindera](https://www.coindera.com)
-* [Coinflash App: Googlebot](https://coinflashapp.com/googlebot.html?ref=producthunt)
-* [Cryptoalert](https://cryptalert.com/alert)
+* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
 * [CryptoML](https://crypto-ml.com)
 * [Signals](https://signals.network)
 * [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
+
+### Alerts
+
+* [Cryptoalert](https://cryptalert.com)
+* [Coinvalue](https://www.coinvalue.xyz)
 
 ### API
 
@@ -303,6 +308,7 @@ published: true
 ### Payment
 
 * [ElioPay](https://eliopay.com)
+* [BitLaunch](https://bitlaunch.io)
 
 ### FinTech
 
