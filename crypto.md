@@ -231,6 +231,7 @@ published: true
 * [Quandl](https://www.quandl.com/collections/markets/bitcoin-data)
 * [Quora Question](https://www.quora.com/Where-can-I-get-historical-raw-data-on-Bitcoin-price-and-volume-across-different-exchanges)
 * [Spreadstreet](https://spreadstreet.io)
+* [Stack Exchange Question](https://opendata.stackexchange.com/q/6884/19570)
 
 ### Stats (1 hour)
 
@@ -331,6 +332,3 @@ published: true
 ### AI Consultants
 
 * [Data Prophet](https://dataprophet.com)
-
-
-
