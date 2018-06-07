@@ -250,11 +250,11 @@ published: true
 * [Crypto Ground](https://www.cryptoground.com/exchange)
 * [Crypto Watch](https://cryptowat.ch)
 
-## Stats (Exchanges)
+### Stats (Exchanges)
 
 * [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
 
-## Stats (General)
+### Stats (General)
 
 * [Apogee Crypto](https://www.apogeecrypto.com)
 * [Bitcoin Charts](https://bitcoincharts.com)
@@ -318,6 +318,63 @@ published: true
 * [Hydrogen Platform](https://www.hydrogenplatform.com)
 * [Ripple](https://ripple.com) - [wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Stellar](https://www.stellar.org) - [wikipedia](https://en.wikipedia.org/wiki/Stellar_(payment_network))
+
+### Misc
+
+* [AION](https://aion.network/) - Inter-blockchain communication
+* [AKASHA](http://akasha.world/) - ETH based. A distributed publsihing platform (like Medium or perhaps Steemit) where users can upvote eachother's posts & get ETH from doing so.
+* [Aragon](https://aragon.one) - The first step towards a more fair, efficient world
+* [Augur(https://www.augur.net) - ETH based. Lets people make predictions & bet on their outcomes
+* [B Umbrella](https://bumbrella.org) - Private security Uber-style decentralized app
+* [Baanx](https://baanx.com) - Allows anyone to create their own bank
+* [Bancor](https://bancor.network) - ETH based. Bancor is an open-sourced technology who's purpose is to make creation of cryptocurrencies (tied to bigger chains like ETH) extremely easy.
+* [BEXT360](https://bext360.com) - ETH based. Machine that analyses (photographs) and bids on coffee berries in field. If farmer agrees on price, transaction is done instantly 
+* [BitClave](https://www.bitclave.com/en/) - Decentralized search engine where you choose what you share with advertisers and get paid for doing so
+* [Bitconnect](https://bitconnect.co) - [Ponzi](https://en.wikipedia.org/wiki/Bitconnect)
+* [Bitland](http://bitland.world) - Land registration on the blockchain
+* [Bitnation](https://bitnation.co) - A decentralized governance platform
+* [Bloq](https://www.bloq.com) - BTC based. Redhat to Bitcoin, ex-BTC-coredev is on it
+* [Blue Frontiers](https://www.blue-frontiers.com/en/) - Seasteading Institute internal currency for seastead nations
+* [Braveno](https://braveno.com)			
+* [Changelly](https://changelly.com) - Exchange
+* [DCorp](https://www.dcorp.it) - ETH based. Decentralized derivatives, futures, and options (run as a DAO I believe)
+* [Dfinity](https://dfinity.network) - ETH based. Sister to ETH network (uses EVM code), B2B, decentralized?
+* [Digix](https://www.dgx.io/) - ETH based. Distributed ownership of assets. For example, DGX is ownership of a % of actual gold in an actual vault.
+* [Enjin](https://enjin.com) - ETH based. Gaming community website builder. Enjincoin can be used to give unique IDs to in-game-items and for trading both itself and items linked to it
+* [Enterprise] Ethereum Alliance](https://entethalliance.org) - ETH based. A group of ETH startups, corporations, and thought leaders devoted to helping grow ETH
+* [EOS](http://eoscryptocurrency.com) - Alike idea to ETH, except with slightly diff features and benefits. EOS has no fees, is more centralized (long term), and going to be DoS resistant from day one (which is slated for June 2018)
+* [Gnosis](https://gnosis.pm) - ETH based. Lets people make predictions & bet on their outcomes
+* [Golem](http://golemproject.net) - ETH based. Gives people the ability to 'rent out' the extra space & computing power on their computers. This can then be bought by anyone to do anything (mining cryptocurrencies, scientific research, AI, etc). Providers get paid via lottery
+* [Grid+](https://gridplus.io) - Aims to create a global network of batteries that uses the green energy boom to create a marketplace for user generated electricity, where nodes can sell their stored energy to the grid.
+* [HashCash](http://hashcash.org) - A PoW algorithm, developed in 1997, that Satoshi Nakamoto used in part to create Blockchain tech
+* [IOTA](https://www.iota.org) - Coin for IoT. Doesn't use blockchain, but a new tech called Tangle
+* [Kick](https://www.kickico.com) - A platform for blockchain based ICOs, where they support your project with marketing, advisors, and an audience. They vett all projects that they accept.
+* [KickCity](https://kickcity.io) - Facebook on blockchain
+* [Maidsafe](https://maidsafe.net) - Distributed storage
+* [MelonPort](https://melonport.com)
+* [MetaMask](https://metamask.io) - ETH based. Gives you the ability to access dApps via the (chrome) browser. It turns your browser into an Ethereum browser. It lets websites retrieve data from the blockchain & letting users manage their IDs & sign transactions.
+* [NameCoin](https://namecoin.org) - BTC based. Distributed DNS & other stuff
+* [Nxt](https://nxt.org) - Has a NXT coin, which is a cryptocurrency used as a platform for building apps & personal crypto-currencies. Is a semi-closed-source project with backdoors.
+* [Opiria](https://opiria.io) - Creates a GDPR-compliant B2C marketplace for personal data, allowing you to sell it in exchange for PDATA tokens 
+* [PolkaDot](https://polkadot.network) - A multi-chain framework to support many different public & private blockchains & make them interoperable (and more scalable).
+* [Project Safe](https://project.safe) - Essentially an encrypted harddrive to store all your data
+* [Rouleth](https://rouleth.com) - ETH based. Lets you play Roulette with your ETH
+* [Satori](https://www.satori.com) - Wants to build a distributed AI mesh, made of millions of devices, that can "read & write the entire internet", and host AIs.
+* [Scuttlebutt](https://github.com/dominictarr/scuttlebutt) - A social (gossip) network. Every user is a node that connects their friends to the rest of their friends. There are also large nodes that collect and share more data, but these are optional. Every user is a node that connects their friends to the rest of their friends.
+* [Sharpe Capital](https://sharpe.capital) - Machine-learning based investment fund that pays dividends to token holders
+* [Sia](https://sia.tech) -Distributed storage
+* [SingularDTV](https://singulardtv.com) - ETC based. Netflix on the Blockchain
+* [Storj](https://storj.io) - Distributed storage
+* [Stox](https://stox.com) - ETH based. Stox is an open source, Bancor based prediction market platform
+* [Synereo](https://www.synereo.com) - Synereo offers blockchain-enabled Attention Economy solutions, allowing direct and platform agnostic monetization of original content posted anywhere on the net.	
+* [Teambrella](https://teambrella.com) - P2P Insurance
+* [Tezos](https://www.tezos.com) - New form of blockchain scheme that aims to decentralize away from both miners and core devs, and instead make it kind of a bid-on-forks model?
+* [Ujo Music](https://ujomusic.com) - ETH based. A ConsenSys Project - Removes all the middlemen of the music industry, allowing artists to have complete ownership of their own music. Possible basis for using blockchain to secure rights to digital products?
+* [uPort](https://uport.me) - ETH based. A decentralized identity that you can use for all ID verification purposes. Alike to Facebook login, except it could be used for stuff like banking too. Unhackable & recoverable via social methods.
+* [Waves](https://avesplatform.com) - A platform for making, crowdfunding, and trading tokens. Purpose is to be a blockchain of coins, with countless coins being made on its network
+* [Wings](https://wingsfoundation.ch) - Automated DAO creation (the type of DAO built for funding projects). Kickstarter on the decentralized network?
+* [Zcash](https://z.cash) -	A cryptocurrency that automatically hides the info the the sender, recipient, value of all transactions, etc. unless one has the correct view key.
+
 
 
 ## AI
