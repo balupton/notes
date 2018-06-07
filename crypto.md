@@ -324,7 +324,7 @@ published: true
 * [AION](https://aion.network/) - Inter-blockchain communication
 * [AKASHA](http://akasha.world/) - ETH based. A distributed publsihing platform (like Medium or perhaps Steemit) where users can upvote eachother's posts & get ETH from doing so.
 * [Aragon](https://aragon.one) - The first step towards a more fair, efficient world
-* [Augur(https://www.augur.net) - ETH based. Lets people make predictions & bet on their outcomes
+* [Augur](https://www.augur.net) - ETH based. Lets people make predictions & bet on their outcomes
 * [B Umbrella](https://bumbrella.org) - Private security Uber-style decentralized app
 * [Baanx](https://baanx.com) - Allows anyone to create their own bank
 * [Bancor](https://bancor.network) - ETH based. Bancor is an open-sourced technology who's purpose is to make creation of cryptocurrencies (tied to bigger chains like ETH) extremely easy.
