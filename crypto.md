@@ -111,7 +111,7 @@ These wallets are more or less identical:
 * [Astronaut](http://www.astronaut.capital)
 * [Bitwise Investments](https://www.bitwiseinvestments.com)
 * [Circle: Invest](https://www.circle.com/en/invest)
-* [Coinseed](https://www.coinseed.co)
+* [Coinseed](https://www.coinseed.co) - [referral](https://balupton.com/coinseed)
 * [Crypto20](https://crypto20.com)
 * [Ethos](https://www.ethos.io)
 * [Kyros](http://kyros.capital)
