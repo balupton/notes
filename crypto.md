@@ -60,7 +60,7 @@ published: true
 
 ## Software Wallets
 
-* [Ben.co](https://ben.co) - [referral](https://ben.onelink.me/kTE6/9181c018) - BTC only
+* [Ben.co](https://ben.co) - [referral](https://balupton.com/benco) - BTC only
 * [BRD](https://brd.com) - rewards id: `befu v5y6 2m6z k2du` - multicurrency
 * [Exodus](https://www.exodus.io) - desktop only
 * [Luno Wallet](https://www.luno.com) - [referral](https://balupton.com/luno) - BTC only
