@@ -61,18 +61,21 @@ published: true
 ## Software Wallets
 
 * [Ben.co](https://ben.co) - [referral](https://ben.onelink.me/kTE6/9181c018) - BTC only
-* [Bitcoin.com](https://bitcoin.com) - BTC & BCH - supports join/shared accounts - uses bitcoin.com for synchronisation - nearly identical to copay
 * [BRD](https://brd.com) - rewards id: `befu v5y6 2m6z k2du` - multicurrency
-* [CoPay](https://copay.io) - BTC & BCH - supports joint/shared accounts - uses bitpay.com for synchronisation - nearly identical to bitcoin.com wallet
 * [Exodus](https://www.exodus.io) - desktop only
 * [Luno Wallet](https://www.luno.com) - [referral](https://balupton.com/luno) - BTC only
 * [Lumi](https://lumiwallet.com) - multicurrency
 * [Morpheus](https://www.morpheuswallet.com) - desktop only, mobile coming soon
 * [Trust](https://trustwalletapp.com) - ETH+tokens only
 
+These wallets are more or less identical:
+
+* [Bitcoin.com](https://bitcoin.com) - BTC & BCH - supports join/shared accounts - uses bitcoin.com for synchronisation - further along than copay+bitpay, as supports BTC+BCH address books
+* [Bitpay](https://bitpay.com) - BTC & BCH - supports join/shared accounts - uses bitpay.com for synchronisation - identical to copay
+* [CoPay](https://copay.io) - BTC & BCH - supports joint/shared accounts - uses bitpay.com for synchronisation - nearly identical to bitcoin.com wallet
+
 ### Banks
 
-* [Bitpay](https://bitpay.com)
 * [Circle: Pay](https://www.circle.com/en/pay) - [referral](https://balupton.com/circle) - USA only
 * [Coinbase](https://coinbase.com) - [referral](https://balupton.com/coinbase)
 * [Coinjar](https://www.coinjar.com) - Australia only
