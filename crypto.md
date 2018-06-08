@@ -131,7 +131,7 @@ published: true
 * [itBit](https://itbit.com)
 * [Kraken](https://kraken.com)
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
-* [Lykke](https://www.lykke.com)
+* [Lykke](https://www.lykke.com) - wallet supports BTC+ETH - exchange supports more
 * [OKCoin](https://okcoin.com)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
