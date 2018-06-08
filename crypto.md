@@ -1,6 +1,6 @@
 ---
 title: Crypto
-date: {}
+date: 2018-06-01
 published: true
 ---
 
@@ -60,23 +60,22 @@ published: true
 
 ## Software Wallets
 
-* [Ben.co](https://ben.co)
-* [Bitcoin.com](https://bitcoin.com)
-* [CoPay](https://copay.io)
-* [Exodus](https://www.exodus.io)
-* [Lumi](https://lumiwallet.com)
-* [Morpheus](https://www.morpheuswallet.com)
-* [Neo](https://neo.org/en-us/download)
-* [Trust](https://trustwalletapp.com)
+* [Ben.co](https://ben.co) - [referral](https://ben.onelink.me/kTE6/9181c018) - BTC only
+* [Bitcoin.com](https://bitcoin.com) - BTC & BCH - supports join/shared accounts - uses bitcoin.com for synchronisation - nearly identical to copay
+* [BRD](https://brd.com) - rewards id: `befu v5y6 2m6z k2du` - multicurrency
+* [CoPay](https://copay.io) - BTC & BCH - supports joint/shared accounts - uses bitpay.com for synchronisation - nearly identical to bitcoin.com wallet
+* [Exodus](https://www.exodus.io) - desktop only
+* [Luno Wallet](https://www.luno.com) - [referral](https://balupton.com/luno) - BTC only
+* [Lumi](https://lumiwallet.com) - multicurrency
+* [Morpheus](https://www.morpheuswallet.com) - desktop only, mobile coming soon
+* [Trust](https://trustwalletapp.com) - ETH+tokens only
 
 ### Banks
 
 * [Bitpay](https://bitpay.com)
-* [BRD](https://brd.com)
-* [Circle: Pay](https://www.circle.com/en/pay) - [referral](https://balupton.com/circle)
+* [Circle: Pay](https://www.circle.com/en/pay) - [referral](https://balupton.com/circle) - USA only
 * [Coinbase](https://coinbase.com) - [referral](https://balupton.com/coinbase)
-* [Coinjar](https://www.coinjar.com)
-* [Luno Wallet](https://www.luno.com) - [referral](https://balupton.com/luno)
+* [Coinjar](https://www.coinjar.com) - Australia only
 * [Uphold](https://uphold.com) - [referral](https://balupton.com/uphold)
 * [Wirex](https://wirexapp.com) - [referral](https://balupton.com/wirex)
 
@@ -354,6 +353,7 @@ published: true
 * [MelonPort](https://melonport.com)
 * [MetaMask](https://metamask.io) - ETH based. Gives you the ability to access dApps via the (chrome) browser. It turns your browser into an Ethereum browser. It lets websites retrieve data from the blockchain & letting users manage their IDs & sign transactions.
 * [NameCoin](https://namecoin.org) - BTC based. Distributed DNS & other stuff
+* [Neo](https://neo.org) - NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a "smart economy" with a distributed network.
 * [Nxt](https://nxt.org) - Has a NXT coin, which is a cryptocurrency used as a platform for building apps & personal crypto-currencies. Is a semi-closed-source project with backdoors.
 * [Opiria](https://opiria.io) - Creates a GDPR-compliant B2C marketplace for personal data, allowing you to sell it in exchange for PDATA tokens 
 * [PolkaDot](https://polkadot.network) - A multi-chain framework to support many different public & private blockchains & make them interoperable (and more scalable).
@@ -389,3 +389,4 @@ published: true
 ### AI Consultants
 
 * [Data Prophet](https://dataprophet.com)
+
