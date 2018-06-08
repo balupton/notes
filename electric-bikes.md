@@ -1,5 +1,6 @@
 ---
 title: Electric Bikes
+date: 2018-06-02
 published: true
 ---
 
