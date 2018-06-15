@@ -171,37 +171,44 @@ Portfolios track your money against the market
 
 * [Quora Question](https://www.quora.com/What-is-the-best-cryptocurrency-portfolio-tracker)
 
+### Apps
+
+* [Alt Pocket](https://altpocket.io) - web
+* [Bitfolio](https://bitfolio.app) - ios, android - 👍
+* [Bitworth](https://bitworth.io) - ios - 👍
+* [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
+* [Block Tray](https://www.blocktray.com) - web
+* [Blockfolio](https://blockfolio.com) - ios, android - 👍
+* [Coincap](https://coincap.io) - ios, android - 👎 no dates for holdings
+* [Coindex](https://coindexapp.com) - ios - 👎 no dates for holdings
+* [Coin Folio](https://www.coin-folio.com) - web - meh
+* [Coin FYI](https://coin.fyi) - web
+* [Coin Gecko](https://www.coingecko.com/en) - web
+* [Coin Stats](https://coinstats.app) - web, mac, ios, android - 👍
+* [Coin Tracker.cash](https://cointracker.cash) - ios, android - 👎 basic
+* [Coin Tracker.io](https://www.cointracker.io) - web
+* [Coin Tracking](https://cointracking.info) - web, ios - 👎 meh ux
+* [Coincall](https://coincall.io) - web
+* [Coinloop](https://coinloop.io) - web
+* [Cosmo](https://cosmoapp.io) - ios, android - 👎 slow
+* [Crypt Folio](https://cryptfolio.com) - web
+* [Crypto Compare](https://www.cryptocompare.com) - web
+* [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 alerts
+* [Crypto Price Widget](https://cryptopricewidget.com) - windows, mac
+* [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
+* [Crypto Roll Call](https://www.cryptorollcall.com) - web
+* [Crypto View](https://github.com/anfederico/cryptoview) - mac
+* [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
+* [Donut](https://github.com/EtherbitHQ/donut) - mac, windows, linux
+* [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) - open-source
+* [TabTrader](https://tab-trader.com) - ios - comprehensive
+* [Wallmine](https://wallmine.com) - web - stock and crypto - heatmap
+
 ### Tools
 
 * [Cartera](https://github.com/bevry-trading/cartera)
 * [Crypto Watch](https://github.com/alexanderepstein/cryptowatch)
 * [Pyfolio](https://github.com/quantopian/pyfolio) - by the Quantopian team
-
-### Apps
-
-* [Alt Pocket](https://altpocket.io) - web
-* [Bit Universe](https://www.bituniverse.org) - ios, android
-* [Block Tray](https://www.blocktray.com) - web
-* [Blockfolio](https://blockfolio.com) - ios, android
-* [Coin Folio](https://www.coin-folio.com) - web - meh
-* [Coin FYI](https://coin.fyi) - web
-* [Coin Gecko](https://www.coingecko.com/en) - web
-* [Coin Tracker.cash](https://cointracker.cash) - ios, android
-* [Coin Tracker.io](https://www.cointracker.io) - web
-* [Coin Tracking](https://cointracking.info) - web
-* [Coincall](https://coincall.io) - web
-* [Coinloop](https://coinloop.io) - web
-* [Cosmo](https://cosmoapp.io) - ios, android
-* [Crypt Folio](https://cryptfolio.com) - web
-* [Crypto Compare](https://www.cryptocompare.com) - web
-* [Crypto Price Widget](https://cryptopricewidget.com) - windows, mac
-* [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
-* [Crypto Roll Call](https://www.cryptorollcall.com) - web
-* [Crypto View](https://github.com/anfederico/cryptoview) - mac
-* [Delta](https://getdelta.io) - mac, windows, linux, ios, android
-* [Donut](https://github.com/EtherbitHQ/donut) - mac, windows, linux
-* [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) - open-source
-* [Wallmine](https://wallmine.com) - web - stock and crypto - heatmap
 
 
 ### Trackers
@@ -211,10 +218,10 @@ Trackers track the market
 #### Apps
 
 * [Coincap](https://coincap.io) - web
-* [Coindex](https://coindexapp.com) - ios
 * [Cryptocoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
 * [Crypto Finance](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14) - google sheets
 * [Crypto Shaddow](https://github.com/huextrat/CryptoShadow) - ios, android
+* [HODL](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876) - ios
 
 #### CLI
 
