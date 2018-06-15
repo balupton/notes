@@ -43,6 +43,7 @@ published: true
 
 * [Blockchain Curated](https://www.blockchaincurated.com)
 * [Coinbuzz](https://coinbuzz.stream)
+* [Coindesk](https://www.coindesk.com)
 * [Coined](http://coined.news)
 * [Coinmarket Cal](http://coinmarketcal.com)
 * [Crypto Panic](https://cryptopanic.com)
@@ -102,7 +103,36 @@ These wallets are more or less identical:
 
 * [Cash Shuffle](https://cashshuffle.com)
 
+### Portfolios
 
+* [Quora Question](https://www.quora.com/What-is-the-best-cryptocurrency-portfolio-tracker)
+
+#### Tools
+
+* [Cartera](https://github.com/bevry-trading/cartera)
+* [Pyfolio](https://github.com/quantopian/pyfolio) - by the Quantopian team
+
+#### Apps
+
+* [Alt Pocket](https://altpocket.io)
+* [Bit Universe](https://www.bituniverse.org)
+* [Block Tray](https://www.blocktray.com)
+* [Blockfolio](https://blockfolio.com)
+* [Coin Folio](https://www.coin-folio.com)
+* [Coin FYI](https://coin.fyi)
+* [Coin Gecko](https://www.coingecko.com/en)
+* [Coin Tracker.cash](https://cointracker.cash)
+* [Coin Tracker.io](https://www.cointracker.io)
+* [Coin Tracking](https://cointracking.info)
+* [Coincall](https://coincall.io)
+* [Coincap](https://coincap.io)
+* [Coinloop](https://coinloop.io)
+* [Crypto Roll Call](https://www.cryptorollcall.com)
+* [CryptoCompare](https://www.cryptocompare.com)
+* [Delta](https://getdelta.io) - mac, ios, android
+* [Donut](https://github.com/EtherbitHQ/donut) - open-source
+* [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) - open-source
+* [Wallmine](https://wallmine.com) - stocks and cryptos, heatmap
 
 ## Trading
 
@@ -149,44 +179,76 @@ These wallets are more or less identical:
 
 ## Automated Trading
 
-### Bots
+### Platforms
+
+Places automated trades. You bring the strategies.
 
 * [AlgoTrader](https://www.algotrader.com/features/automated-bitcoin-trading/)
-* [Backtrader](https://github.com/mementum/backtrader)
-* [baltrade](https://github.com/balupton/automated-trading)
-* [Blackbird](https://github.com/butor/blackbird)
-* [BTCRobot](http://www.btcrobot.com)
-* [Catalyst](https://github.com/enigmampc/catalyst)
-* [Catalyst](https://github.com/enigmampc/catalyst)
-* [CCXT](https://github.com/ccxt/ccxt)
-* [CoinFi](https://coinfi.com)
-* [Crypto-ml](https://crypto-ml.com)
 * [CryptoTrader](https://cryptotrader.org/)
-* [Devalpha](https://devalpha.io)
-* [FinmarketPy](https://github.com/cuemacro/finmarketpy)
-* [GDAX Trading Toolkit](https://github.com/coinbase/gdax-tt)
-* [Gekko](https://github.com/askmike/gekko)
+* [DevAlpha](https://devalpha.io)
 * [Gimmer](https://gimmer.net)
-* [GoCryptoTrader](https://github.com/thrasher-/gocryptotrader)
-* [Haasbot](https://www.haasonline.com)
+* [Haas](https://www.haasonline.com)
 * [Kryll](https://kryll.io)
-* [Krypto](https://github.com/ctubio/Krypto-trading-bot)
-* [OptiToken](https://optitoken.io)
 * [Quantopian](https://www.quantopian.com)
-* [RQAlpha](https://github.com/ricequant/rqalpha)
-* [Signals](https://signals.network)
-* [Strategems](https://github.com/dysonance/Strategems.jl)
-* [TradeSDK](https://github.com/TradeSDK)
-* [Tribeca](https://github.com/michaelgrosner/tribeca)
-* [Zenbot](https://github.com/carlos8f/zenbot)
-* [Zipline](https://github.com/quantopian/zipline)
+* [QuantRocket](https://www.quantrocket.com)
+
+### Generic
+
+Places automated trades. You bring the data and strategies.
+
+* [baltrade](https://github.com/balupton/automated-trading) - javascript
+* [Catalyst](https://github.com/enigmampc/catalyst) - python
+* [Gekko](https://github.com/askmike/gekko) - javascript
+* [GoCryptoTrader](https://github.com/thrasher-/gocryptotrader) - go
+* [Moonshot](https://github.com/quantrocket-llc/moonshot) - python - powers the QuantRocket platform
+* [Zenbot](https://github.com/carlos8f/zenbot) - javascript
+* [Zipline](https://github.com/quantopian/zipline) - python - powers the Quantopian platform
+
+### Arbitrage
+
+Places automated trades. You bring the data.
+
+* [Blackbird](https://github.com/butor/blackbird) - c++ - arbitrage
+
+### Market Making
+
+Places automated trades. You bring the data.
+
+* [Tribeca](https://github.com/michaelgrosner/tribeca) - typescript
+
+### Backtesting
+
+Tools for making and testing strategies. You bring the data and strategies.
+
+* [Backtrader](https://github.com/mementum/backtrader) - python - backtesting
+* [FinmarketPy](https://github.com/cuemacro/finmarketpy) - python - backtesting
+* [Moonchart](https://github.com/quantrocket-llc/moonchart) - python - backtesting -  powers the QuantRocket platform
+* [Signals](https://signals.network) - web - develop strategies with data science
+* [Strategems](https://github.com/dysonance/Strategems.jl) - julia
+
+### Unknown
+
+* [bitcoin-broker](https://github.com/philsong/bitcoin-broker) previously [btcrobot](https://github.com/philsong/btcrobot) - unknown - japanese?
+* [Krypto](https://github.com/ctubio/Krypto-trading-bot) - c++, javascript
+* [RQAlpha](https://github.com/ricequant/rqalpha) - python - japanese?
+* [OptiToken](https://optitoken.io)
+* [TradeSDK](https://github.com/TradeSDK) - forks of many automated trading solutons
+
+### Tools
+
+* [GDAX Trading Toolkit](https://github.com/coinbase/gdax-tt) - typescript
+* [CCXT](https://github.com/ccxt/ccxt) - javascript, python, php - exchange connections
 
 ### Indicators
 
-* [Indicators.jl](https://github.com/dysonance/Indicators.jl) - julia, has renko
+* [Indicators.jl](https://github.com/dysonance/Indicators.jl) - julia - has renko
 * [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) - julia
-* [React Stockcharts](https://github.com/rrag/react-stockcharts/blob/master/src/lib/calculator/renko.js) - javascript, has renko
-* [Technical Indicators](https://github.com/anandanand84/technicalindicators) - typescript, has renko
+* [React Stockcharts](https://github.com/rrag/react-stockcharts/blob/master/src/lib/calculator/renko.js) - javascript - has renko
+* [Technical Indicators](https://github.com/anandanand84/technicalindicators) - typescript - has renko
+
+### Scams?
+
+* [BTCRobot](http://www.btcrobot.com)
 
 
 
@@ -212,8 +274,9 @@ These wallets are more or less identical:
 ### Signals
 
 * [Coindera](https://www.coindera.com)
+* [CoinFi](https://coinfi.com)
 * [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
-* [CryptoML](https://crypto-ml.com)
+* [Crypto ML](https://crypto-ml.com)
 * [Signals](https://signals.network)
 * [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
 
