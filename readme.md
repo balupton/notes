@@ -1,4 +1,5 @@
 - Repo: https://github.com/balupton/notes
 - Website: https://notes.balupton.com
 - Edit: https://prose.io/#balupton/notes
-- Theme: https://github.com/broccolini/athena
+- Theme: [athena](https://github.com/broccolini/athena)
+- License: [Creative Commons Attribution 4.0](http://spdx.org/licenses/CC-BY-4.0.html)
