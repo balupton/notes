@@ -1244,3 +1244,7 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [ZenSports](https://www.producthunt.com/r/2bcada68e2dbad/107720?app_id=6132) - [65 👍](https://www.producthunt.com/posts/zensports?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Sports betting using cryptocurrencies and blockchain
 * [Zimrii Music](https://www.producthunt.com/r/eb4466ff207ce2/117688?app_id=6132) - [31 👍](https://www.producthunt.com/posts/zimrii-music?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Easy to use, powerful, blockchain music platform
 * [ΞTHEREST Ethereum Contract API](https://www.producthunt.com/r/0afbc2f6b44518/106173?app_id=6132) - [96 👍](https://www.producthunt.com/posts/therest-ethereum-contract-api?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Explore and interact with Ethereum contracts
+
+---
+
+[Submit improvements.](https://github.com/balupton/notes/blob/master/crypto.md)
