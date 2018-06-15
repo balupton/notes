@@ -6,6 +6,8 @@ published: true
 
 ## Resources
 
+![Product Hunt Logo]({{ "/assets/ph.svg" | absolute_url }})
+
 ### Lists
 
 * [Comparison of Exchanges, Bots, Indicators, and Tools for Automated Trading](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit)
