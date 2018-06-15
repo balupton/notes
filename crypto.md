@@ -12,7 +12,7 @@ published: true
 * [Crypto List](https://github.com/coinpride/CryptoList)
 * [Awesome Blockhain](https://github.com/imbaniac/awesome-blockchain)
 * [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
-* [Blockahin Stuff](https://github.com/Xel/Blockchain-stuff)
+* [Blockchain Stuff](https://github.com/Xel/Blockchain-stuff)
 * [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
 * [Coin List](https://github.com/lukechilds/coinlist)
 
