@@ -192,8 +192,11 @@ Portfolios track your money against the market
 * [Coincall](https://coincall.io)
 * [Coincap](https://coincap.io)
 * [Coinloop](https://coinloop.io)
-* [Crypto Roll Call](https://www.cryptorollcall.com)
+* [Cosmo](https://cosmoapp.io) - ios, android
+* [Crypt Folio](https://cryptfolio.com)
 * [Crypto Compare](https://www.cryptocompare.com)
+* [Crypto Price Widget](https://cryptopricewidget.com) - mac
+* [Crypto Roll Call](https://www.cryptorollcall.com)
 * [Crypto View](https://github.com/anfederico/cryptoview)
 * [Delta](https://getdelta.io) - mac, ios, android
 * [Donut](https://github.com/EtherbitHQ/donut) - open-source
