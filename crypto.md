@@ -208,10 +208,6 @@ Portfolios track your money against the market
 
 Trackers track the market
 
-#### Specific
-
-* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
-
 #### Apps
 
 * [Coindex](https://coindexapp.com/?ref=producthunt)
@@ -263,6 +259,8 @@ Alerts tell you when certain things happen
 
 These provide you with data for building your own tools, apps, and bots.
 
+### Listings
+
 * [Quora Question](https://www.quora.com/Where-can-I-get-historical-raw-data-on-Bitcoin-price-and-volume-across-different-exchanges)
 
 ### API
@@ -292,6 +290,7 @@ These provide you with data for building your own tools, apps, and bots.
 * [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
 * [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
 * [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
+* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
 
 ### Realtime
 
