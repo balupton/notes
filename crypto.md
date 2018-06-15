@@ -14,7 +14,6 @@ published: true
 * [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
 * [Blockchain Stuff](https://github.com/Xel/Blockchain-stuff)
 * [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
-* [Coin List](https://github.com/lukechilds/coinlist)
 
 
 ### Jobs
