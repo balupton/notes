@@ -10,6 +10,12 @@ published: true
 
 * [Comparison of Exchanges, Bots, Indicators, and Tools for Automated Trading](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit)
 * [Crypto List](https://github.com/coinpride/CryptoList)
+* [Awesome Blockhain](https://github.com/imbaniac/awesome-blockchain)
+* [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
+* [Blockahin Stuff](https://github.com/Xel/Blockchain-stuff)
+* [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
+* [Coin List](https://github.com/lukechilds/coinlist)
+
 
 ### Jobs
 
@@ -28,6 +34,7 @@ published: true
 * [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
 * [Bitcoin.com Academy](https://academy.bitcoin.com)
 * [Bitcoin.it Wiki](https://en.bitcoin.it/wiki/Main_Page)
+* [Blockahin Tutorial](https://blockchain.liuchengxu.org)
 * [Coin Lector](https://www.coinlector.com)
 * [Crypto Ground](https://www.cryptoground.com/guide)
 * [Crypto Minded](https://cryptominded.com)
@@ -48,6 +55,13 @@ published: true
 * [Coinmarket Cal](http://coinmarketcal.com)
 * [Crypto Panic](https://cryptopanic.com)
 * [Kyro](https://kyro.com/)
+
+
+
+## Anonymous Cryptocurrencies
+
+* [Deep Onion](https://deeponion.org)
+* [Menero](https://getmonero.org)
 
 
 
@@ -103,36 +117,7 @@ These wallets are more or less identical:
 
 * [Cash Shuffle](https://cashshuffle.com)
 
-### Portfolios
 
-* [Quora Question](https://www.quora.com/What-is-the-best-cryptocurrency-portfolio-tracker)
-
-#### Tools
-
-* [Cartera](https://github.com/bevry-trading/cartera)
-* [Pyfolio](https://github.com/quantopian/pyfolio) - by the Quantopian team
-
-#### Apps
-
-* [Alt Pocket](https://altpocket.io)
-* [Bit Universe](https://www.bituniverse.org)
-* [Block Tray](https://www.blocktray.com)
-* [Blockfolio](https://blockfolio.com)
-* [Coin Folio](https://www.coin-folio.com)
-* [Coin FYI](https://coin.fyi)
-* [Coin Gecko](https://www.coingecko.com/en)
-* [Coin Tracker.cash](https://cointracker.cash)
-* [Coin Tracker.io](https://www.cointracker.io)
-* [Coin Tracking](https://cointracking.info)
-* [Coincall](https://coincall.io)
-* [Coincap](https://coincap.io)
-* [Coinloop](https://coinloop.io)
-* [Crypto Roll Call](https://www.cryptorollcall.com)
-* [CryptoCompare](https://www.cryptocompare.com)
-* [Delta](https://getdelta.io) - mac, ios, android
-* [Donut](https://github.com/EtherbitHQ/donut) - open-source
-* [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) - open-source
-* [Wallmine](https://wallmine.com) - stocks and cryptos, heatmap
 
 ## Trading
 
@@ -166,14 +151,170 @@ These wallets are more or less identical:
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
 * [Lykke](https://www.lykke.com) - wallet supports BTC+ETH - exchange supports more
 * [OKCoin](https://okcoin.com)
+* [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
 * [The Rock Trading](https://therocktrading.com)
 * [UpCoin](https://upcoin.com)
+* [Waves](https://beta.wavesplatform.com) - decentralised exchange and wallet, also a competitor to ripple and stellar
 
 ### Practice Trading
 
 * [Game of Coins](https://gameofcoins.de/portfolio/balupton)
+
+
+
+## Portfolios
+
+Portfolios track your money against the market
+
+### Listings
+
+* [Quora Question](https://www.quora.com/What-is-the-best-cryptocurrency-portfolio-tracker)
+
+### Tools
+
+* [Cartera](https://github.com/bevry-trading/cartera)
+* [Crypto Watch](https://github.com/alexanderepstein/cryptowatch)
+* [Pyfolio](https://github.com/quantopian/pyfolio) - by the Quantopian team
+
+### Apps
+
+* [Alt Pocket](https://altpocket.io)
+* [Bit Universe](https://www.bituniverse.org)
+* [Block Tray](https://www.blocktray.com)
+* [Blockfolio](https://blockfolio.com)
+* [Coin Folio](https://www.coin-folio.com)
+* [Coin FYI](https://coin.fyi)
+* [Coin Gecko](https://www.coingecko.com/en)
+* [Coin Tracker.cash](https://cointracker.cash)
+* [Coin Tracker.io](https://www.cointracker.io)
+* [Coin Tracking](https://cointracking.info)
+* [Coincall](https://coincall.io)
+* [Coincap](https://coincap.io)
+* [Coinloop](https://coinloop.io)
+* [Crypto Roll Call](https://www.cryptorollcall.com)
+* [Crypto Compare](https://www.cryptocompare.com)
+* [Crypto View](https://github.com/anfederico/cryptoview)
+* [Delta](https://getdelta.io) - mac, ios, android
+* [Donut](https://github.com/EtherbitHQ/donut) - open-source
+* [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) - open-source
+* [Wallmine](https://wallmine.com) - stocks and cryptos, heatmap
+
+
+### Trackers
+
+Trackers track the market
+
+#### Specific
+
+* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
+
+#### Apps
+
+* [Coindex](https://coindexapp.com/?ref=producthunt)
+* [Coingraph](https://github.com/derogab/coingraph)
+* [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
+* [Cryptocoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
+* [Crypto Finance](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14) - google sheets
+* [Crypto Shaddow](https://github.com/huextrat/CryptoShadow) - ios, android
+* [Crypto Tracker](https://github.com/EthVentures/CryptoTracker)
+
+#### CLI
+
+* [Coinmon](https://github.com/bichenkk/coinmon)
+* [Coinpare](https://github.com/piotrmurach/coinpare)
+* [Cointop](https://github.com/miguelmota/cointop)
+* [Moneda](https://github.com/hminaya/moneda-cli)
+
+#### Rates
+
+* [Crypto Money](https://cryptomoney.rocks/dashboard/db/globalstatistics)
+* [Crypto Radar](https://cryptoradar.co)
+* [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
+* [Rate.sx](http://rate.sx) [github](https://github.com/chubin/rate.sx)
+
+
+
+## Actions
+
+### Signals
+
+Signals tell you to buy or sell
+
+* [Coindera](https://www.coindera.com)
+* [CoinFi](https://coinfi.com)
+* [Crypto ML](https://crypto-ml.com)
+* [Signals](https://signals.network)
+* [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
+
+### Alerts
+
+Alerts tell you when certain things happen
+
+* [Cryptoalert](https://cryptalert.com)
+* [Coinvalue](https://www.coinvalue.xyz)
+
+
+
+## Data
+
+These provide you with data for building your own tools, apps, and bots.
+
+* [Quora Question](https://www.quora.com/Where-can-I-get-historical-raw-data-on-Bitcoin-price-and-volume-across-different-exchanges)
+
+### API
+
+* [Alpha Vantage](https://www.alphavantage.co/documentation)
+* [BFX Data](https://www.bfxdata.com/datadownload)
+* [Coin Market Cap](https://coinmarketcap.com/historical/) - every minute
+* [Coin Metrics](https://coinmetrics.io/data-downloads)
+* [Coincap](https://coincap.io) - 15 minutes
+* [Crypto Compare](https://www.cryptocompare.com/api)
+* [Quandl](https://www.quandl.com/collections/markets/bitcoin-data)
+* [Spreadstreet](https://spreadstreet.io)
+* [Stack Exchange Question](https://opendata.stackexchange.com/q/6884/19570)
+
+### Tools
+
+* [Crypto CMD](https://github.com/guptarohit/cryptoCMD) - python
+
+### 1 Hour
+
+* [Coindar](https://coindar.org/coins/)
+* [Crypto Nirvana](https://www.cryptonirvana.com)
+
+### Insightful
+
+* [Bitcoin Wisdom](https://bitcoinwisdom.com)
+* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
+* [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
+* [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
+
+### Realtime
+
+* [BFX Data](https://www.bfxdata.com)
+* [Bstreet](http://www.bstreet.io)
+* [Coinsranks](https://coinsranks.com)
+* [Crypto Ground](https://www.cryptoground.com/exchange)
+* [Crypto Watch](https://cryptowat.ch)
+
+### General
+
+* [Apogee Crypto](https://www.apogeecrypto.com)
+* [Bitcoin Charts](https://bitcoincharts.com)
+* [Coin Dance](https://coin.dance/stats)
+* [Coin Market Cap](https://coinmarketcap.com)
+* [Coin Ranking](https://coinranking.com)
+* [Coincap](https://coincap.io)
+* [Crypto Compare](https://www.cryptocompare.com/coins)
+* [Crypto Current](https://www.cryptocurrent.co/all)
+* [Crypto Ground](https://www.cryptoground.com/what-if)
+* [Crypto Maps](http://cryptomaps.org/?ref=producthunt)
+* [Crypto Money.rocks](https://cryptomoney.rocks/dashboard/db/globalstatistics)
+* [Crypto Nirvana](https://www.cryptonirvana.com)
+* [Crypto Trend](https://www.cryptotrend.io)
+* [Moon Stats](https://www.moonstats.com)
 
 
 
@@ -196,10 +337,17 @@ Places automated trades. You bring the strategies.
 
 Places automated trades. You bring the data and strategies.
 
+* [Algo Coin](https://github.com/timkpaine/algo-coin) - python
 * [baltrade](https://github.com/balupton/automated-trading) - javascript
+* [Binance Trader](https://github.com/yasinkuyu/binance-trader) - python
+* [BX Bot](https://github.com/gazbert/bxbot) - java
 * [Catalyst](https://github.com/enigmampc/catalyst) - python
-* [Gekko](https://github.com/askmike/gekko) - javascript
+* [Coin Trader](https://github.com/timolson/cointrader) - java
+* [Crypto Signal](https://github.com/CryptoSignal/crypto-signal) - python
+* [Crypto Trader](https://github.com/Akagi201/cryptotrader) - go
+* [Gekko](https://github.com/askmike/gekko) - javascript - [Strategies](https://github.com/xFFFFF/Gekko-Strategies)
 * [GoCryptoTrader](https://github.com/thrasher-/gocryptotrader) - go
+* [Krypto](https://github.com/ctubio/Krypto-trading-bot) - c++, javascript
 * [Moonshot](https://github.com/quantrocket-llc/moonshot) - python - powers the QuantRocket platform
 * [Zenbot](https://github.com/carlos8f/zenbot) - javascript
 * [Zipline](https://github.com/quantopian/zipline) - python - powers the Quantopian platform
@@ -208,7 +356,17 @@ Places automated trades. You bring the data and strategies.
 
 Places automated trades. You bring the data.
 
-* [Blackbird](https://github.com/butor/blackbird) - c++ - arbitrage
+* [Arbitrage Bot](https://github.com/BatuhanUsluel/ArbitrageBot) - python
+* [Arbitrage Chances](https://github.com/reteps/arbitrage-chances) - python
+* [Blackbird](https://github.com/butor/blackbird) - c++
+* [Coinx](https://github.com/johntitus/coinx) - javascript
+* [Crypto Arbitrage](https://github.com/kelvinau/crypto-arbitrage) - python
+* [Cryptocurrency Arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - javascript
+
+Arbitrage aata sources:
+
+* [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
+* [Peregrine](https://github.com/wardbradt/peregrine)
 
 ### Market Making
 
@@ -229,15 +387,16 @@ Tools for making and testing strategies. You bring the data and strategies.
 ### Unknown
 
 * [bitcoin-broker](https://github.com/philsong/bitcoin-broker) previously [btcrobot](https://github.com/philsong/btcrobot) - unknown - japanese?
-* [Krypto](https://github.com/ctubio/Krypto-trading-bot) - c++, javascript
 * [RQAlpha](https://github.com/ricequant/rqalpha) - python - japanese?
 * [OptiToken](https://optitoken.io)
 * [TradeSDK](https://github.com/TradeSDK) - forks of many automated trading solutons
 
 ### Tools
 
-* [GDAX Trading Toolkit](https://github.com/coinbase/gdax-tt) - typescript
+* [AlphaPy](https://github.com/ScottFreeLLC/AlphaPy) - python - machine learning library
+* [Coin Pusher](https://github.com/krystianity/coinpusher) - javascript - neural networks
 * [CCXT](https://github.com/ccxt/ccxt) - javascript, python, php - exchange connections
+* [GDAX Trading Toolkit](https://github.com/coinbase/gdax-tt) - typescript
 
 ### Indicators
 
@@ -249,92 +408,6 @@ Tools for making and testing strategies. You bring the data and strategies.
 ### Scams?
 
 * [BTCRobot](http://www.btcrobot.com)
-
-
-
-## Data
-
-### Apps
-
-* [Coindex](https://coindexapp.com/?ref=producthunt)
-* [Crypto Pro for iOS and Apple Watch](http://applewatchbitcoin.com)
-* [Cryptofinance for Google Sheets](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14)
-
-### CLI
-
-* [Coinmon](https://github.com/bichenkk/coinmon)
-* [Coinpare](https://github.com/piotrmurach/coinpare)
-
-### Fees
-
-* [Crypto Money](https://cryptomoney.rocks/dashboard/db/globalstatistics)
-* [Crypto Radar](https://cryptoradar.co)
-* [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
-
-### Signals
-
-* [Coindera](https://www.coindera.com)
-* [CoinFi](https://coinfi.com)
-* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
-* [Crypto ML](https://crypto-ml.com)
-* [Signals](https://signals.network)
-* [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
-
-### Alerts
-
-* [Cryptoalert](https://cryptalert.com)
-* [Coinvalue](https://www.coinvalue.xyz)
-
-### API
-
-* [Alpha Vantage](https://www.alphavantage.co/documentation)
-* [BFX Data](https://www.bfxdata.com/datadownload)
-* [Coin Market Cap](https://coinmarketcap.com/historical/) - every minute
-* [Coin Metrics](https://coinmetrics.io/data-downloads)
-* [Coincap](https://coincap.io) - 15 minutes
-* [Crypto Compare](https://www.cryptocompare.com/api)
-* [Quandl](https://www.quandl.com/collections/markets/bitcoin-data)
-* [Quora Question](https://www.quora.com/Where-can-I-get-historical-raw-data-on-Bitcoin-price-and-volume-across-different-exchanges)
-* [Spreadstreet](https://spreadstreet.io)
-* [Stack Exchange Question](https://opendata.stackexchange.com/q/6884/19570)
-
-### Stats (1 hour)
-
-* [Coindar](https://coindar.org/coins/)
-* [Crypto Nirvana](https://www.cryptonirvana.com)
-
-### Stats (Insightful)
-
-* [Bitcoin Wisdom](https://bitcoinwisdom.com)
-
-### Stats (Realtime)
-
-* [BFX Data](https://www.bfxdata.com)
-* [Bstreet](http://www.bstreet.io)
-* [Coinsranks](https://coinsranks.com)
-* [Crypto Ground](https://www.cryptoground.com/exchange)
-* [Crypto Watch](https://cryptowat.ch)
-
-### Stats (Exchanges)
-
-* [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
-
-### Stats (General)
-
-* [Apogee Crypto](https://www.apogeecrypto.com)
-* [Bitcoin Charts](https://bitcoincharts.com)
-* [Coin Dance](https://coin.dance/stats)
-* [Coin Market Cap](https://coinmarketcap.com)
-* [Coin Ranking](https://coinranking.com)
-* [Coincap](https://coincap.io)
-* [Crypto Compare](https://www.cryptocompare.com/coins)
-* [Crypto Current](https://www.cryptocurrent.co/all)
-* [Crypto Ground](https://www.cryptoground.com/what-if)
-* [Crypto Maps](http://cryptomaps.org/?ref=producthunt)
-* [Crypto Money.rocks](https://cryptomoney.rocks/dashboard/db/globalstatistics)
-* [Crypto Nirvana](https://www.cryptonirvana.com)
-* [Crypto Trend](https://www.cryptotrend.io)
-* [Moon Stats](https://www.moonstats.com)
 
 
 
@@ -356,6 +429,7 @@ Tools for making and testing strategies. You bring the data and strategies.
 ### DAPPs
 
 * [App.co](https://app.co)
+* [Asch](https://github.com/AschPlatform/asch)
 
 ### Shopping
 
@@ -383,6 +457,10 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [Hydrogen Platform](https://www.hydrogenplatform.com)
 * [Ripple](https://ripple.com) - [wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Stellar](https://www.stellar.org) - [wikipedia](https://en.wikipedia.org/wiki/Stellar_(payment_network))
+
+### Rewards
+
+* [Utopian](https://github.com/utopian-io/utopian.io) - rewards for open-source contributors
 
 ### Misc
 
