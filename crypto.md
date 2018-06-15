@@ -8,23 +8,60 @@ published: true
 
 ### Lists
 
-* [Comparison of Exchanges, Bots, Indicators, and Tools for Automated Trading](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit)
-* [Crypto List](https://github.com/coinpride/CryptoList)
 * [Awesome Blockhain](https://github.com/imbaniac/awesome-blockchain)
 * [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
 * [Blockchain Stuff](https://github.com/Xel/Blockchain-stuff)
+* [Coindash](https://coindash.co)
+* [Comparison of Exchanges, Bots, Indicators, and Tools for Automated Trading](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit)
+* [Crypto List](https://github.com/coinpride/CryptoList)
+* [Cryptocurrencies on Product Hunt](https://www.producthunt.com/topics/cryptocurrencies)
 * [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
+* [Telegram Crypto Groups](https://telegramcryptogroups.com)
 
+### ICOs
+
+* [ICO Bench](https://icobench.com)
+* [Top ICO List](https://topicolist.com)
+
+### DAPPs
+
+* [App.co](https://app.co)
+* [Asch](https://github.com/AschPlatform/asch)
 
 ### Jobs
 
-* [AI/ML Jobs.com](https://www.aimljobs.com)
-* [Crypto Job.com](https://crypto-job.com)
+* [AI/ML Jobs](https://www.aimljobs.com)
+* [All Crypto Jobs](https://www.producthunt.com/r/05763c7bd594a1/127343?app_id=6132) - [118 👍](https://www.producthunt.com/posts/all-crypto-jobs?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Every crypto job in the world in one feed updated hourly
+* [Blockchain Jobs from BlockRepublic](https://www.producthunt.com/r/c4be0b946c6c38/113132?app_id=6132) - [417 👍](https://www.producthunt.com/posts/blockchain-jobs-from-blockrepublic?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - 450+ blockchain jobs to apply to in one place
+* [Coinvet](https://www.producthunt.com/r/5ae5aadf3e12bc/117583?app_id=6132) - [425 👍](https://www.producthunt.com/posts/coinvet?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Jobs and gigs marketplace. Crowdsource your hiring.
+* [Crypto Job](https://crypto-job.com)
+* [Crypto Jobs List](https://www.producthunt.com/r/02e1cc9598c7a3/110535?app_id=6132) - [177 👍](https://www.producthunt.com/posts/crypto-jobs-list?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Your #1 place to find and post crypto & blockchain jobs!
+* [Cryptocurrency Jobs](https://www.producthunt.com/r/038a6deac45b7d/124148?app_id=6132) - [179 👍](https://www.producthunt.com/posts/cryptocurrency-jobs?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - The biggest blockchain job board on the web
+* [CryptoJobs](https://www.producthunt.com/r/a1c525ec24b48a/120784?app_id=6132) - [520 👍](https://www.producthunt.com/posts/cryptojobs?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Blockchain jobs for crypto enthusiasts 🤑
+* [Octopus Tasks](https://www.producthunt.com/r/492dd9bf0be664/120712?app_id=6132) - [298 👍](https://www.producthunt.com/posts/octopus-tasks?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - Earn by doing micro-tasks for companies and friends.
+* [Protocol Jobs](https://www.producthunt.com/r/4773f9ccfda703/108998?app_id=6132) - [156 👍](https://www.producthunt.com/posts/protocol-jobs?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - A centralized job board for a decentralized world
+* [Satoshi Careers](https://www.producthunt.com/r/66f2073dc60946/127992?app_id=6132) - [49 👍](https://www.producthunt.com/posts/satoshi-careers?utm_campaign=producthunt-api&utm_medium=api&utm_source=Application%3A+Bevry+%28ID%3A+6132%29) - List and search blockchain jobs for free
 
+### Firms
+
+* [Block Hunter](https://blockhunter.co) - focus on blockchain
+* [Data Prophet](https://dataprophet.com) - focus on ai
 
 
 
 ## Learning
+
+### News
+
+* [Blockchain Curated](https://www.blockchaincurated.com)
+* [Coinbuzz](https://coinbuzz.stream)
+* [Coindesk](https://www.coindesk.com)
+* [Coined](http://coined.news)
+* [Coinmarket Cal](http://coinmarketcal.com)
+* [Crypto Panic](https://cryptopanic.com)
+* [Finimize](https://www.finimize.com) - [ios](https://www.finimize.com)
+* [Kyro](https://kyro.com/)
+* [Unblock](https://unblock.net)
 
 ### Learn Crypto
 
@@ -35,9 +72,12 @@ published: true
 * [Bitcoin.it Wiki](https://en.bitcoin.it/wiki/Main_Page)
 * [Blockahin Tutorial](https://blockchain.liuchengxu.org)
 * [Coin Lector](https://www.coinlector.com)
+* [Coined.news](http://coined.news)
 * [Crypto Ground](https://www.cryptoground.com/guide)
 * [Crypto Minded](https://cryptominded.com)
 * [Crypto Stack](https://cryptostack.xyz)
+* [Crypto Timeline](https://cryptotimeline.com)
+* [Wallet Genuis](https://thewalletgenius.com/)
 
 ### Learn Trading
 
@@ -45,22 +85,13 @@ published: true
 * [High Frequency Trading](https://en.wikipedia.org/wiki/High-frequency_trading)
 * [How to Invest like a VC](https://howtoinvestlikeavc.com)
 
-### News
+### Practice Trading
 
-* [Blockchain Curated](https://www.blockchaincurated.com)
-* [Coinbuzz](https://coinbuzz.stream)
-* [Coindesk](https://www.coindesk.com)
-* [Coined](http://coined.news)
-* [Coinmarket Cal](http://coinmarketcal.com)
-* [Crypto Panic](https://cryptopanic.com)
-* [Kyro](https://kyro.com/)
+* [Altcoin Fantasy](https://altcoinfantasy.com)
+* [Boitcoin Flip](http://bitcoinflipapp.com)
+* [Game of Coins](https://gameofcoins.de/portfolio/balupton)
 
 
-
-## Anonymous Cryptocurrencies
-
-* [Deep Onion](https://deeponion.org)
-* [Menero](https://getmonero.org)
 
 
 
@@ -68,6 +99,7 @@ published: true
 
 ### Hardware Wallets
 
+* [BitBox](https://shiftcrypto.ch)
 * [KeepKey](https://www.keepkey.com)
 * [Ledger](https://www.ledgerwallet.com)
 * [Trezor](https://trezor.io)
@@ -93,6 +125,7 @@ These wallets are more or less identical:
 * [Circle: Pay](https://www.circle.com/en/pay) - [referral](https://balupton.com/circle) - USA only
 * [Coinbase](https://coinbase.com) - [referral](https://balupton.com/coinbase)
 * [Coinjar](https://www.coinjar.com) - Australia only
+* [Nuo](https://getnuo.com)
 * [Uphold](https://uphold.com) - [referral](https://balupton.com/uphold)
 * [Wirex](https://wirexapp.com) - [referral](https://balupton.com/wirex)
 
@@ -104,45 +137,65 @@ These wallets are more or less identical:
 * [Shift Payments](https://www.shiftpayments.com/card)
 * [TenX](https://www.tenx.tech)
 
+### Address Sharing
+
+* [Wallet List](https://walletlist.me)
+
 ### Convert & Transfer
 
 * [Bisq](https://bisq.network)
 * [Ever Coin](https://evercoin.com)
 * [Nexchange](https://nexchange.io)
 * [Shape Shift](https://shapeshift.io)
+* [Switchain](https://www.switchain.com/)
 * [Wyre](https://www.sendwyre.com)
 
-### Transaction Privacy
+### Shufflers
 
 * [Cash Shuffle](https://cashshuffle.com)
 
+### Anonymous Cryptocurrencies
+
+* [Deep Onion](https://deeponion.org)
+* [Menero](https://getmonero.org)
 
 
 ## Trading
 
 ### Funds & Investment
 
+* [22x](https://www.22xfund.com)
 * [Astronaut](http://www.astronaut.capital)
-* [Bitwise Investments](https://www.bitwiseinvestments.com)
+* [Bitwise](https://www.bitwiseinvestments.com)
+* [Bundil](https://enjoybundil.com/)
 * [Circle: Invest](https://www.circle.com/en/invest)
 * [Coinseed](https://www.coinseed.co) - [referral](https://balupton.com/coinseed)
+* [Crumbs](https://crumbsapp.io/)
+* [Crypterval](https://crypterval.com)
 * [Crypto20](https://crypto20.com)
 * [Ethos](https://www.ethos.io)
+* [Faast](https://faa.st)
 * [Kyros](http://kyros.capital)
+* [Nuo Lending](https://lend.getnuo.com)
+* [Token Union](http://tokenunion.io)
 * [We Lend Bitcoin](https://www.welendbitcoin.com/home)
 
 ### Exchanges
 
 * [Bitfinex](https://bitfinex.com)
+* [BitMEX](https://www.bitmex.com)
 * [Bitstamp](https://bitstamp.net)
 * [Bittrex](https://bittrex.com)
 * [Blockchain.info](https://blockchain.info)
 * [BTCC](https://btcc.com)
 * [CEX](https://cex.io) - [referral](https://balupton.com/cex)
 * [Circle: Trade](https://www.circle.com/en/trade)
+* [Cobinhood](https://cobinhood.com)
 * [Coinigy](https://www.coinigy.com)
 * [Coinsbank](https://coinsbank.com)
+* [Credoex](https://www.credoex.com)
 * [GDAX](https://gdax.com) - [referral](https://balupton.com/coinbase)
+* [Gemini](https://gemini.com)
 * [HitBTC](https://hitbtc.com)
 * [Independent Reserve](https://www.independentreserve.com)
 * [itBit](https://itbit.com)
@@ -150,37 +203,41 @@ These wallets are more or less identical:
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
 * [Lykke](https://www.lykke.com) - wallet supports BTC+ETH - exchange supports more
 * [OKCoin](https://okcoin.com)
+* [Olympus](https://olympuslabs.io)
 * [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
 * [The Rock Trading](https://therocktrading.com)
+* [Trade.io](https://trade.io) - upcoming
 * [UpCoin](https://upcoin.com)
 * [Waves](https://beta.wavesplatform.com) - decentralised exchange and wallet, also a competitor to ripple and stellar
 
-### Practice Trading
-
-* [Game of Coins](https://gameofcoins.de/portfolio/balupton)
 
 
+## Tracking
 
-## Portfolios
+### Rates
+
+* [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
+* [Crypto Money](https://cryptomoney.rocks/dashboard/db/globalstatistics)
+* [Crypto Radar](https://cryptoradar.co)
+* [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
+* [Peregrine](https://github.com/wardbradt/peregrine)
+* [Rate.sx](http://rate.sx) [github](https://github.com/chubin/rate.sx)
+
+### Portfolios
 
 Portfolios track your money against the market
 
-### Listings
-
-* [Quora Question](https://www.quora.com/What-is-the-best-cryptocurrency-portfolio-tracker)
-
-### Apps
-
+* [Able](https://www.getable.io) - web - not yet launched
 * [Alt Pocket](https://altpocket.io) - web
+* [Astronaut](http://www.astronaut.capital) - ios, android
+* [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
 * [Bitfolio](https://bitfolio.app) - ios, android - 👍
 * [Bitworth](https://bitworth.io) - ios - 👍
-* [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
+* [Block Keeper](https://blockkeeper.io)
 * [Block Tray](https://www.blocktray.com) - web
 * [Blockfolio](https://blockfolio.com) - ios, android - 👍
-* [Coincap](https://coincap.io) - ios, android - 👎 no dates for holdings
-* [Coindex](https://coindexapp.com) - ios - 👎 no dates for holdings
 * [Coin Folio](https://www.coin-folio.com) - web - 👎 bad ux
 * [Coin FYI](https://coin.fyi) - web
 * [Coin Gecko](https://www.coingecko.com/en) - web
@@ -189,70 +246,94 @@ Portfolios track your money against the market
 * [Coin Tracker.io](https://www.cointracker.io) - web
 * [Coin Tracking](https://cointracking.info) - web, ios - 👎 meh ux
 * [Coincall](https://coincall.io) - web
+* [Coincap](https://coincap.io) - ios, android - 👎 no dates for holdings
+* [Coindex](https://coindexapp.com) - ios - 👎 no dates for holdings
+* [Coinfort](http://www.coinfort.io) - dapp
 * [Coinloop](https://coinloop.io) - web
+* [Coinsapp](https://coinsapp.co) - dapp
 * [Cosmo](https://cosmoapp.io) - ios, android - 👎 slow
+* [Crypolio](https://crypol.io) - web
 * [Crypt Folio](https://cryptfolio.com) - web
+* [Cryptagon](https://cryptagon.io) - web, ios, android
+* [Cryptare](https://cryptare.app)
 * [Crypto Compare](https://www.cryptocompare.com) - web
-* [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 alerts
+* [Crypto Dasher](https://cryptodasher.com) - web
 * [Crypto Price Widget](https://cryptopricewidget.com) [github](https://github.com/nathanp/crypto-price-widget) - windows, mac
 * [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
 * [Crypto Roll Call](https://www.cryptorollcall.com) - web
 * [Crypto View](https://github.com/anfederico/cryptoview) - mac
+* [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 alerts
 * [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
 * [Donut](https://www.etherbit.in/pages/donut) [github](https://github.com/EtherbitHQ/donut) - mac, windows, linux
+* [Fintab](https://fintab.i) - web, ios, android
 * [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) open-source - ios, mac
+* [Moonlio](https://www.moonlio.io) - web
+* [Moonstats](https://www.moonstats.com) - web, ios - paid
+* [Moonwatch](https://moonwat.ch) - web, ios - paid
+* [Sickey](https://www.sickey.io/)
 * [TabTrader](https://tab-trader.com) - ios - comprehensive
 * [Wallmine](https://wallmine.com) - web - 👍 stock and crypto + heatmap
 
-### Tools
+Developer focused:
 
 * [Cartera](https://github.com/bevry-trading/cartera)
+* [Crypto ETF](https://github.com/benmarten/CryptoETF)
 * [Crypto Watch](https://github.com/alexanderepstein/cryptowatch)
 * [Pyfolio](https://github.com/quantopian/pyfolio) - by the Quantopian team
 
+### Tickers
 
-### Trackers
+Tickers track only the market and not your own money.
 
-Trackers track the market
-
-#### Apps
-
+* [Altdesk](https://altdesk.io/) - mac, windows
+* [Bitdock](https://github.com/chrisunderdown/bitdock) - mac
+* [Blocky](https://descryptive.com/apps/blocky) - discord, telegram, slack
+* [Coin Watch](https://github.com/oktapodia/coinwatch) - mac menu bar
 * [Coincap](https://coincap.io) - web
-* [Cryptocoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
+* [Coinmon](https://github.com/bichenkk/coinmon) - terminal
+* [Coinpare](https://github.com/piotrmurach/coinpare) - terminal
+* [Coinsranks](https://coinsranks.com/) - web
+* [Cointick](http://www.cointickapp.com) - mac menu bar
+* [Cointop](https://github.com/miguelmota/cointop) - terminal
+* [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - mac menu bar
 * [Crypto Finance](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14) - google sheets
+* [Crypto Lite](http://cryptolite.net) - web
+* [Crypto Logg](http://www.cryptologg.com) - web - changes since last time you checked
 * [Crypto Shaddow](https://github.com/huextrat/CryptoShadow) - ios, android
+* [Cryptocoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
+* [Fortune](http://getfortuneapp.com/) - ios
 * [HODL](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876) - ios
+* [Moneda](https://github.com/hminaya/moneda-cli) - terminal
+* [OCFX](https://onchainfx.com) - web
+* [Super Crypta](https://supercrypta.github.io/supercrypta/) - mac
+* [Token Data](https://www.tokendata.io) - web - focused on tokens
 
-#### CLI
-
-* [Coinmon](https://github.com/bichenkk/coinmon)
-* [Coinpare](https://github.com/piotrmurach/coinpare)
-* [Cointop](https://github.com/miguelmota/cointop)
-* [Moneda](https://github.com/hminaya/moneda-cli)
-
-#### Rates
-
-* [Crypto Money](https://cryptomoney.rocks/dashboard/db/globalstatistics)
-* [Crypto Radar](https://cryptoradar.co)
-* [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
-* [Rate.sx](http://rate.sx) [github](https://github.com/chubin/rate.sx)
-
-#### Tools
-
-Trackers that are developer focused
+Developer focused:
 
 * [Coingraph](https://github.com/derogab/coingraph)
 * [Crypto Tracker](https://github.com/EthVentures/CryptoTracker)
 
+### Analysis
 
-## Actions
+* [Lark](https://larkapp.io) - ios, android - upcoming
+* [Setcoins](https://www.setcoins.com) - ios
+* [Crypto Parse](http://cryptoparse.io) - sentiment analysis
+* [Bitcoin Wisdom](https://bitcoinwisdom.com)
+* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html) - google trends
+* [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
+* [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
+* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
+* [Crypto Trend](https://www.cryptotrend.io) - google trends
 
 ### Signals
 
-Signals tell you to buy or sell
+Signals tell you specifcally when to buy or sell
 
+* [Beep](https://beep.network) - alerts when coinbase announces support for new currencies
+* [Bitnary](http://www.bitnary.co)
 * [Coindera](https://www.coindera.com)
 * [CoinFi](https://coinfi.com)
+* [Crypto Central](https://cryptocentral.a) - signals for arbitrage trading
 * [Crypto ML](https://crypto-ml.com)
 * [Signals](https://signals.network)
 * [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
@@ -261,20 +342,25 @@ Signals tell you to buy or sell
 
 Alerts tell you when certain things happen
 
-* [Cryptoalert](https://cryptalert.com)
+* [Bit Alarm App](https://bitalarmapp.com/)
+* [Cryptalert](https://cryptalert.com)
 * [Coinvalue](https://www.coinvalue.xyz)
+* [Coinvision](https://www.coinvision.co)
+
 
 
 
 ## Data
 
-These provide you with data for building your own tools, apps, and bots.
+These need to merged into the above section at some point. With `+ api`, `+ historical`, `+ realtime`, `+ analysis` if they have them.
 
-### Listings
+### Clients
 
-* [Quora Question](https://www.quora.com/Where-can-I-get-historical-raw-data-on-Bitcoin-price-and-volume-across-different-exchanges)
+These are tools for fetching data
 
-### API
+* [Crypto CMD](https://github.com/guptarohit/cryptoCMD) - python
+
+### APIs
 
 * [Alpha Vantage](https://www.alphavantage.co/documentation)
 * [BFX Data](https://www.bfxdata.com/datadownload)
@@ -287,22 +373,10 @@ These provide you with data for building your own tools, apps, and bots.
 * [Spreadstreet](https://spreadstreet.io)
 * [Stack Exchange Question](https://opendata.stackexchange.com/q/6884/19570)
 
-### Tools
-
-* [Crypto CMD](https://github.com/guptarohit/cryptoCMD) - python
-
 ### 1 Hour
 
 * [Coindar](https://coindar.org/coins/)
 * [Crypto Nirvana](https://www.cryptonirvana.com)
-
-### Insightful
-
-* [Bitcoin Wisdom](https://bitcoinwisdom.com)
-* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html)
-* [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
-* [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
-* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
 
 ### Realtime
 
@@ -326,7 +400,6 @@ These provide you with data for building your own tools, apps, and bots.
 * [Crypto Maps](http://cryptomaps.org/?ref=producthunt)
 * [Crypto Money.rocks](https://cryptomoney.rocks/dashboard/db/globalstatistics)
 * [Crypto Nirvana](https://www.cryptonirvana.com)
-* [Crypto Trend](https://www.cryptotrend.io)
 * [Moon Stats](https://www.moonstats.com)
 
 
@@ -376,10 +449,7 @@ Places automated trades. You bring the data.
 * [Crypto Arbitrage](https://github.com/kelvinau/crypto-arbitrage) - python
 * [Cryptocurrency Arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - javascript
 
-Arbitrage aata sources:
-
-* [Bitcoinity Arbitrage](http://data.bitcoinity.org/markets/arbitrage)
-* [Peregrine](https://github.com/wardbradt/peregrine)
+For arbitrage data sources, refer to the `Rates` section.
 
 ### Market Making
 
@@ -411,6 +481,13 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [CCXT](https://github.com/ccxt/ccxt) - javascript, python, php - exchange connections
 * [GDAX Trading Toolkit](https://github.com/coinbase/gdax-tt) - typescript
 
+### AI Tools
+
+* [Google ML Kit](https://developers.google.com/ml-kit/)
+* [Kaggle](https://www.kaggle.com)
+* [Prodigy](https://prodi.gy)
+* [WarriorJS](https://warrior.js.org)
+
 ### Indicators
 
 * [Indicators.jl](https://github.com/dysonance/Indicators.jl) - julia - has renko
@@ -424,35 +501,35 @@ Tools for making and testing strategies. You bring the data and strategies.
 
 
 
-## ICOs
-
-### ICO Lists
-
-* [ICO Bench](https://icobench.com)
-* [Top ICO List](https://topicolist.com)
-
-### Active ICOs
-
-* [Trade.io](https://trade.io)
-
-
-
 ## Use Cases
 
-### DAPPs
+### New Countries
 
-* [App.co](https://app.co)
-* [Asch](https://github.com/AschPlatform/asch)
+* [Free Society](https://www.freesociety.com)
+
+### Government
+
+* [Bitnation](https://bitnation.co)
+* [Flux](http://voteflux.org)
+* [Polys](https://polys.me)
+
+### Social
+
+* [Numa](https://numaverse.com/)
+* [Peepeth](https://peepeth.com)
 
 ### Shopping
 
 * [Accepting.io](https://accepting.io/)
+* [Coin Friendly](https://coinfriendly.io)
 * [OpenBazaar](https://www.openbazaar.org)
+* [Oasis Direct](https://oasis.direct)
 * [Public Market](https://publicmarket.io)
 
-### Government
+### Email
 
-* [Polys](https://polys.me)
+* [Bit Bounce](https://bitbounce.com)
+* [Earn.com](https://earn.com) - [referral](https://earn.com/balupton/referral/?a=jj1ifwhour6qsw1d)
 
 ### Education
 
@@ -463,11 +540,17 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [ElioPay](https://eliopay.com)
 * [BitLaunch](https://bitlaunch.io)
 
+### Storage
+
+* [Sia](http://sia.tech)
+* [Storj](https://storj.io)
+
 ### FinTech
 
 * [Coinbase Custody](https://custody.coinbase.com)
 * [Coinbase Prime](https://prime.coinbase.com)
 * [Hydrogen Platform](https://www.hydrogenplatform.com)
+* [Meta Stable](https://www.metastablecapital.com)
 * [Ripple](https://ripple.com) - [wikipedia](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Stellar](https://www.stellar.org) - [wikipedia](https://en.wikipedia.org/wiki/Stellar_(payment_network))
 
@@ -519,9 +602,7 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [Satori](https://www.satori.com) - Wants to build a distributed AI mesh, made of millions of devices, that can "read & write the entire internet", and host AIs.
 * [Scuttlebutt](https://github.com/dominictarr/scuttlebutt) - A social (gossip) network. Every user is a node that connects their friends to the rest of their friends. There are also large nodes that collect and share more data, but these are optional. Every user is a node that connects their friends to the rest of their friends.
 * [Sharpe Capital](https://sharpe.capital) - Machine-learning based investment fund that pays dividends to token holders
-* [Sia](https://sia.tech) -Distributed storage
 * [SingularDTV](https://singulardtv.com) - ETC based. Netflix on the Blockchain
-* [Storj](https://storj.io) - Distributed storage
 * [Stox](https://stox.com) - ETH based. Stox is an open source, Bancor based prediction market platform
 * [Synereo](https://www.synereo.com) - Synereo offers blockchain-enabled Attention Economy solutions, allowing direct and platform agnostic monetization of original content posted anywhere on the net.	
 * [Teambrella](https://teambrella.com) - P2P Insurance
@@ -532,20 +613,6 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [Wings](https://wingsfoundation.ch) - Automated DAO creation (the type of DAO built for funding projects). Kickstarter on the decentralized network?
 * [Zcash](https://z.cash) -	A cryptocurrency that automatically hides the info the the sender, recipient, value of all transactions, etc. unless one has the correct view key.
 
-
-
-## AI
-
-### AI Tools
-
-* [Google ML Kit](https://developers.google.com/ml-kit/)
-* [Kaggle](https://www.kaggle.com)
-* [Prodigy](https://prodi.gy)
-* [WarriorJS](https://warrior.js.org)
-
-### AI Consultants
-
-* [Data Prophet](https://dataprophet.com)
 
 
 
