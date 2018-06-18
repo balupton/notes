@@ -166,21 +166,21 @@ These wallets are more or less identical:
 
 ### Funds & Investment
 
-* [22x](https://www.22xfund.com)
-* [Astronaut](http://www.astronaut.capital)
-* [Bitwise](https://www.bitwiseinvestments.com)
-* [Bundil](https://enjoybundil.com/)
-* [Circle: Invest](https://www.circle.com/en/invest)
-* [Coinseed](https://www.coinseed.co) - [referral](https://balupton.com/coinseed)
-* [Crumbs](https://crumbsapp.io/)
-* [Crypterval](https://crypterval.com)
-* [Crypto20](https://crypto20.com)
-* [Ethos](https://www.ethos.io)
-* [Faast](https://faa.st)
-* [Kyros](http://kyros.capital)
-* [Nuo Lending](https://lend.getnuo.com)
-* [Token Union](http://tokenunion.io)
-* [We Lend Bitcoin](https://www.welendbitcoin.com/home)
+* [22x](https://www.22xfund.com) - upcoming - invest into a token, that is used to invest in companies
+* [Astronaut](http://www.astronaut.capital) - upcoming - invest into a token, that is used to invest in ICOs
+* [Bitwise](https://www.bitwiseinvestments.com) - limited to USA investors with min $25,000USD - invest into the top 10
+* [Bundil](https://enjoybundil.com/) - invest transaction roundups into cryptocurrencies of your choice
+* [Circle: Invest](https://www.circle.com/en/invest) - [referral](https://balupton.com/circle) - USA only - invest into a crypto split of your choice 
+* [Coinseed](https://www.coinseed.co) - [referral](https://balupton.com/coinseed) - invest into a crypto split of your choice
+* [Crumbs](https://crumbsapp.io/) - invest transaction roundups into a crypto split of your choice
+* [Crypterval](https://crypterval.com) - invest daily into an exchange trade of your choice
+* [Crypto20](https://crypto20.com) - invest in a token, that represents a dynamic crypto split
+* [Ethos](https://www.ethos.io) - upcoming - invest in coins, that invest in something
+* [Faast](https://faa.st) - invest into a crypto split, via direct connections to your wallet
+* [Kyros](http://kyros.capital) - upcoming - invest into a token, that is used to invest in crypto
+* [Nebeus](https://nebeus.com/info-loan) - request and fund crypto loans with interest, uses collateral to ensure repayment
+* [Nuo Lending](https://lend.getnuo.com) - [about](https://nuo-lending.gitbook.io/help/) - request and fund ether loans with interest, uses smart contract to ensure repayment
+* [Token Union](http://tokenunion.io) - holds your investment ransom, on the hope you get more back
 
 ### Exchanges
 
@@ -191,7 +191,7 @@ These wallets are more or less identical:
 * [Blockchain.info](https://blockchain.info)
 * [BTCC](https://btcc.com)
 * [CEX](https://cex.io) - [referral](https://balupton.com/cex)
-* [Circle: Trade](https://www.circle.com/en/trade)
+* [Circle: Trade](https://www.circle.com/en/trade) - [referral](https://balupton.com/circle) - USA only 
 * [Cobinhood](https://cobinhood.com)
 * [CoinFalcon](https://coinfalcon.com) - [referral](https://balupton.com/coinfalcon)
 * [Coinigy](https://www.coinigy.com)
@@ -234,7 +234,7 @@ Portfolios track your money against the market
 
 * [Able](https://www.getable.io) - web - not yet launched
 * [Alt Pocket](https://altpocket.io) - web
-* [Astronaut](http://www.astronaut.capital) - ios, android
+* [Astronaut](http://www.astronaut.capital) - ios, android - 👍 + investment analysis on select ICOs
 * [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
 * [Bitfolio](https://bitfolio.app) - ios, android - 👍
 * [Bitworth](https://bitworth.io) - ios - 👍
@@ -265,7 +265,7 @@ Portfolios track your money against the market
 * [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
 * [Crypto Roll Call](https://www.cryptorollcall.com) - web
 * [Crypto View](https://github.com/anfederico/cryptoview) - mac
-* [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 alerts
+* [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 includes alerts
 * [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
 * [Donut](https://www.etherbit.in/pages/donut) [github](https://github.com/EtherbitHQ/donut) - mac, windows, linux
 * [Fintab](https://fintab.i) - web, ios, android
@@ -275,7 +275,7 @@ Portfolios track your money against the market
 * [Moonwatch](https://moonwat.ch) - web, ios - paid
 * [Sickey](https://www.sickey.io/)
 * [TabTrader](https://tab-trader.com) - ios - comprehensive
-* [Wallmine](https://wallmine.com) - web - 👍 stock and crypto + heatmap
+* [Wallmine](https://wallmine.com) - web - 👍 + stock + heatmap
 * [Whale Folio](https://www.whalefolio.com) - ios, android
 
 Developer focused:
