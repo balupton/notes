@@ -101,6 +101,7 @@ published: true
 ### Hardware Wallets
 
 * [BitBox](https://shiftcrypto.ch)
+* [CoolWallet S](https://coolwallet.io)
 * [KeepKey](https://www.keepkey.com)
 * [Ledger](https://www.ledgerwallet.com)
 * [Trezor](https://trezor.io)
