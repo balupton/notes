@@ -192,6 +192,7 @@ These wallets are more or less identical:
 * [CEX](https://cex.io) - [referral](https://balupton.com/cex)
 * [Circle: Trade](https://www.circle.com/en/trade)
 * [Cobinhood](https://cobinhood.com)
+* [CoinFalcon](https://coinfalcon.com) - [referral](https://balupton.com/coinfalcon)
 * [Coinigy](https://www.coinigy.com)
 * [Coinsbank](https://coinsbank.com)
 * [Credoex](https://www.credoex.com)
