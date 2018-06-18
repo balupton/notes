@@ -27,6 +27,7 @@ published: true
 
 * [App.co](https://app.co)
 * [Asch](https://github.com/AschPlatform/asch)
+* [DApp Store](https://dappstore.link)
 
 ### Jobs
 
@@ -273,6 +274,7 @@ Portfolios track your money against the market
 * [Sickey](https://www.sickey.io/)
 * [TabTrader](https://tab-trader.com) - ios - comprehensive
 * [Wallmine](https://wallmine.com) - web - 👍 stock and crypto + heatmap
+* [Whale Folio](https://www.whalefolio.com) - ios, android
 
 Developer focused:
 
