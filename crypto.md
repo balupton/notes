@@ -12,16 +12,17 @@ published: true
 * [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
 * [Blockchain Stuff](https://github.com/Xel/Blockchain-stuff)
 * [Coindash](https://coindash.co)
-* [Comparison of Exchanges, Bots, Indicators, and Tools for Automated Trading](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit)
 * [Crypto List](https://github.com/coinpride/CryptoList)
 * [Cryptocurrencies on Product Hunt](https://www.producthunt.com/topics/cryptocurrencies)
 * [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
 * [Telegram Crypto Groups](https://telegramcryptogroups.com)
+* [Telegram Crypto Groups by Activity](https://cryptovibe.io) - [source](https://github.com/cryptovibe/cryptovibe)
 
 ### ICOs
 
 * [ICO Bench](https://icobench.com)
 * [Top ICO List](https://topicolist.com)
+* [ICO Check](https://icocheck.io) - [source](https://github.com/ico-check/ico-check)
 
 ### DAPPs
 
@@ -139,6 +140,10 @@ These wallets are more or less identical:
 * [Shift Payments](https://www.shiftpayments.com/card)
 * [TenX](https://www.tenx.tech)
 
+### Tax
+
+* [CryptoTax](https://cryptotax.io)
+
 ### Address Sharing
 
 * [Wallet List](https://walletlist.me)
@@ -184,6 +189,8 @@ These wallets are more or less identical:
 
 ### Exchanges
 
+[Comparison Table](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit?usp=sharing)
+
 * [Bitfinex](https://bitfinex.com)
 * [BitMEX](https://www.bitmex.com)
 * [Bitstamp](https://bitstamp.net)
@@ -226,7 +233,7 @@ These wallets are more or less identical:
 * [Crypto Radar](https://cryptoradar.co)
 * [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
 * [Peregrine](https://github.com/wardbradt/peregrine)
-* [Rate.sx](http://rate.sx) [github](https://github.com/chubin/rate.sx)
+* [Rate.sx](http://rate.sx) - [source](https://github.com/chubin/rate.sx)
 
 ### Portfolios
 
@@ -267,7 +274,7 @@ Portfolios track your money against the market
 * [Crypto View](https://github.com/anfederico/cryptoview) - mac
 * [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 includes alerts
 * [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
-* [Donut](https://www.etherbit.in/pages/donut) [github](https://github.com/EtherbitHQ/donut) - mac, windows, linux
+* [Donut](https://www.etherbit.in/pages/donut) - [source](https://github.com/EtherbitHQ/donut) - mac, windows, linux
 * [Fintab](https://fintab.i) - web, ios, android
 * [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) open-source - ios, mac
 * [Moonlio](https://www.moonlio.io) - web
@@ -322,6 +329,7 @@ Developer focused:
 * [Lark](https://larkapp.io) - ios, android - upcoming
 * [Setcoins](https://www.setcoins.com) - ios
 * [Crypto Parse](http://cryptoparse.io) - sentiment analysis
+* [BFX Data](https://bfxdata.com) - heatmaps
 * [Bitcoin Wisdom](https://bitcoinwisdom.com)
 * [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html) - google trends
 * [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
@@ -414,8 +422,8 @@ These are tools for fetching data
 
 Places automated trades. You bring the strategies.
 
-* [AlgoTrader](https://www.algotrader.com/features/automated-bitcoin-trading/)
-* [CryptoTrader](https://cryptotrader.org/)
+* [AlgoTrader](https://www.algotrader.com/features/automated-bitcoin-trading/) - java
+* [CryptoTrader](https://cryptotrader.org/) - coffeescript
 * [DevAlpha](https://devalpha.io)
 * [Gimmer](https://gimmer.net)
 * [Haas](https://www.haasonline.com)
