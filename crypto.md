@@ -217,6 +217,7 @@ These wallets are more or less identical:
 * [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
+* [Radar Relay](https://radarrelay.com) - ETH + ERC20 tokens only
 * [The Rock Trading](https://therocktrading.com)
 * [Trade.io](https://trade.io) - upcoming
 * [UpCoin](https://upcoin.com)
@@ -273,6 +274,7 @@ Portfolios track your money against the market
 * [Crypto Roll Call](https://www.cryptorollcall.com) - web
 * [Crypto View](https://github.com/anfederico/cryptoview) - mac
 * [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 includes alerts
+* [Cryptonomy](https://www.cryptonomynow.com) - ios
 * [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
 * [Donut](https://www.etherbit.in/pages/donut) - [source](https://github.com/EtherbitHQ/donut) - mac, windows, linux
 * [Fintab](https://fintab.i) - web, ios, android
