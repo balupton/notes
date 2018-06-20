@@ -217,7 +217,6 @@ These wallets are more or less identical:
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
 * [Lykke](https://www.lykke.com) - wallet supports BTC+ETH - exchange supports more
 * [OKCoin](https://okcoin.com)
-* [Olympus](https://olympuslabs.io)
 * [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
@@ -234,6 +233,7 @@ Decentralised exchanges often function more like wallets, which have inbuilt con
 * [Blocknet](https://www.blocknet.co)
 * [Kyber](https://kyber.network)
 * [Loopring](http://loopring.org)
+* [Olympus](https://olympuslabs.io) - currently android only
 * [Waves](https://beta.wavesplatform.com) - decentralised exchange and wallet, also a competitor to ripple and stellar
 
 Underlying platforms for decentralised exchanges:
