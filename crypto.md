@@ -17,6 +17,7 @@ published: true
 * [Cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
 * [Telegram Crypto Groups](https://telegramcryptogroups.com)
 * [Telegram Crypto Groups by Activity](https://cryptovibe.io) - [source](https://github.com/cryptovibe/cryptovibe)
+* [The Coin Offering](https://thecoinoffering.com/tools/) - all sorts of listings
 
 ### ICOs
 
@@ -191,6 +192,9 @@ These wallets are more or less identical:
 
 [Comparison Table](https://docs.google.com/spreadsheets/d/1m9E0SSG0nnjP1hOfC2i5TJiduCMGinJ6_EcaFyz_3NA/edit?usp=sharing)
 
+#### Centralised
+
+* [Binance](https://www.binance.com/en/trade/BTC_USDT)
 * [Bitfinex](https://bitfinex.com)
 * [BitMEX](https://www.bitmex.com)
 * [Bitstamp](https://bitstamp.net)
@@ -221,8 +225,25 @@ These wallets are more or less identical:
 * [The Rock Trading](https://therocktrading.com)
 * [Trade.io](https://trade.io) - upcoming
 * [UpCoin](https://upcoin.com)
+
+#### Dencentralised
+
+Decentralised exchanges often function more like wallets, which have inbuilt conversion and trading capabilities
+
+* [BitShares](https://bitshares.org)
+* [Blocknet](https://www.blocknet.co)
+* [Kyber](https://kyber.network)
+* [Loopring](http://loopring.org)
 * [Waves](https://beta.wavesplatform.com) - decentralised exchange and wallet, also a competitor to ripple and stellar
 
+Underlying platforms for decentralised exchanges:
+
+* [0x](https://www.0xproject.com)
+
+Upcoming exchanges that currently only offer tokens:
+
+* [OmiseGO](https://omisego.network)
+* [OTN](https://otn.org)
 
 
 ## Tracking
@@ -338,6 +359,7 @@ Developer focused:
 * [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
 * [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
 * [Crypto Trend](https://www.cryptotrend.io) - google trends
+* [The Coin Offering: Social Tracker](https://thecoinoffering.com/social-tracker/) - social media followings
 
 ### Signals
 
@@ -539,6 +561,7 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [OpenBazaar](https://www.openbazaar.org)
 * [Oasis Direct](https://oasis.direct)
 * [Public Market](https://publicmarket.io)
+* [Syscoin](http://www.syscoin.org)
 
 ### Email
 
