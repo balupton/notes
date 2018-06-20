@@ -215,17 +215,17 @@ These wallets are more or less identical:
 * [itBit](https://itbit.com)
 * [Kraken](https://kraken.com)
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
-* [Lykke](https://www.lykke.com) - wallet supports BTC+ETH - exchange supports more
+* [Lykke](https://www.lykke.com) - wallet is only BTC+ETH, exchange supports more
 * [OKCoin](https://okcoin.com)
 * [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
 * [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
-* [Radar Relay](https://radarrelay.com) - ETH + ERC20 tokens only
+* [Robinhood: Crypto](https://crypto.robinhood.com) - USA only
 * [The Rock Trading](https://therocktrading.com)
 * [Trade.io](https://trade.io) - upcoming
 * [UpCoin](https://upcoin.com)
 
-#### Dencentralised
+#### Decentralised
 
 Decentralised exchanges often function more like wallets, which have inbuilt conversion and trading capabilities
 
@@ -234,6 +234,7 @@ Decentralised exchanges often function more like wallets, which have inbuilt con
 * [Kyber](https://kyber.network)
 * [Loopring](http://loopring.org)
 * [Olympus](https://olympuslabs.io) - currently android only
+* [Radar Relay](https://radarrelay.com) - ETH + ERC20 tokens only
 * [Waves](https://beta.wavesplatform.com) - decentralised exchange and wallet, also a competitor to ripple and stellar
 
 Underlying platforms for decentralised exchanges:
