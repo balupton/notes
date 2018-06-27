@@ -49,6 +49,7 @@ published: true
 
 * [Block Hunter](https://blockhunter.co) - focus on blockchain
 * [Data Prophet](https://dataprophet.com) - focus on ai
+* [Indico](https://indico.io) - ai for enterprise
 
 
 
