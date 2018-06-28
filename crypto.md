@@ -265,7 +265,8 @@ Portfolios track your money against the market
 
 * [Able](https://www.getable.io) - web - not yet launched
 * [Alt Pocket](https://altpocket.io) - web
-* [Astronaut](http://www.astronaut.capital) - ios, android - 👍 + investment analysis on select ICOs
+* [Apogee](https://www.apogeecrypto.com) - web - % on 24h and 7d
+* [Astronaut](http://www.astronaut.capital) - ios, android - 👍 + investment analysis on select ICOs - USA only
 * [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
 * [Bitfolio](https://bitfolio.app) - ios, android - 👍
 * [Bitworth](https://bitworth.io) - ios - 👍
@@ -281,8 +282,10 @@ Portfolios track your money against the market
 * [Coin Tracking](https://cointracking.info) - web, ios - 👎 meh ux
 * [Coincall](https://coincall.io) - web
 * [Coincap](https://coincap.io) - ios, android - 👎 no dates for holdings
+* [Coindar](https://coindar.org/coins/) - web + [news api](https://coindar.org/en/api)
 * [Coindex](https://coindexapp.com) - ios - 👎 no dates for holdings
 * [Coinfort](http://www.coinfort.io) - dapp
+* [Coinhodler](https://coinhodler.io)
 * [Coinloop](https://coinloop.io) - web
 * [Coinsapp](https://coinsapp.co) - dapp
 * [Cosmo](https://cosmoapp.io) - ios, android - 👎 slow
@@ -321,60 +324,105 @@ Developer focused:
 
 Tickers track only the market and not your own money.
 
-* [Altdesk](https://altdesk.io/) - mac, windows
-* [Bitdock](https://github.com/chrisunderdown/bitdock) - mac
+* [AltDesk](https://altdesk.io/) - mac, windows
+* [BFXdata](https://www.bfxdata.com) - web - % on 24h
+* [BitDock](https://github.com/chrisunderdown/bitdock) - mac
 * [Blocky](https://descryptive.com/apps/blocky) - discord, telegram, slack
-* [Coin Watch](https://github.com/oktapodia/coinwatch) - mac menu bar
-* [Coincap](https://coincap.io) - web
-* [Coinmon](https://github.com/bichenkk/coinmon) - terminal
-* [Coinpare](https://github.com/piotrmurach/coinpare) - terminal
-* [Coinsranks](https://coinsranks.com/) - web
-* [Cointick](http://www.cointickapp.com) - mac menu bar
-* [Cointop](https://github.com/miguelmota/cointop) - terminal
-* [Crypto Bar](https://github.com/geraldoramos/crypto-bar) - mac menu bar
-* [Crypto Finance](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14) - google sheets
-* [Crypto Lite](http://cryptolite.net) - web
-* [Crypto Logg](http://www.cryptologg.com) - web - changes since last time you checked
-* [Crypto Shaddow](https://github.com/huextrat/CryptoShadow) - ios, android
-* [Cryptocoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
+* [Bstreet](http://www.bstreet.io)
+* [Coin360](https://coin360.io) - web - 👍 - heatmap
+* [CoinCap](https://coincap.io) - web
+* [CoinMon](https://github.com/bichenkk/coinmon) - terminal
+* [CoinNirvana](https://www.cryptonirvana.com) - web - 👍 - clean, realtime, market cap, % on hour, day, week
+* [CoinPare](https://github.com/piotrmurach/coinpare) - terminal
+* [CoinRanking](https://coinranking.com) - web - % on 24h
+* [CoinsRanks](https://coinsranks.com/) - web - market cap, % on 24h
+* [CoinTick](http://www.cointickapp.com) - mac menu bar
+* [CoinTop](https://github.com/miguelmota/cointop) - terminal
+* [CoinWatch](https://github.com/oktapodia/coinwatch) - mac menu bar
+* [CryptoBar](https://github.com/geraldoramos/crypto-bar) - mac menu bar
+* [CryptoCoin Indicator](https://github.com/techstar-cloud/cryptocoin-indicator) - ubuntu
+* [CryptoFinance](https://jbuty.com/how-to-get-crypto-currencies-rates-and-more-in-google-sheet-1a57e571bc14) - google sheets
+* [CryptoGround](https://www.cryptoground.com/cryptocurrency-market) - market cap, %s on 24h
+* [CryptoLite](http://cryptolite.net) - web
+* [CryptoLogg](http://www.cryptologg.com) - web - changes since last time you checked
+* [CryptoMoney Rocks](https://cryptomoney.rocks) - web - %s on various time periods
+* [CryptoShaddow](https://github.com/huextrat/CryptoShadow) - ios, android
+* [CryptoWatch](https://cryptowat.ch) - web - 👍 - clean, multi exchange, realtime, % on 24h
 * [Fortune](http://getfortuneapp.com/) - ios
 * [HODL](https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876) - ios
 * [Moneda](https://github.com/hminaya/moneda-cli) - terminal
+* [Moonstats](https://www.moonstats.com) - web
 * [OCFX](https://onchainfx.com) - web
-* [Super Crypta](https://supercrypta.github.io/supercrypta/) - mac
-* [Token Data](https://www.tokendata.io) - web - focused on tokens
+* [SuperCrypta](https://supercrypta.github.io/supercrypta/) - mac
+* [TokenData](https://www.tokendata.io) - web - focused on tokens
 
-Developer focused:
+Developer APIs:
+
+* [AlphaVantage](https://www.alphavantage.co/documentation/) + indicators
+  * last 24 hours in 5 minutes intervals
+  * daily, weekly, monthly
+* [BitcoinCharts](https://bitcoincharts.com/about/markets-api/)
+  * daily, weekly, monthly
+* [BFXdata](https://www.bfxdata.com/datadownload/) + margin funding stats
+  * hourly since inception
+* [CoinCap](https://github.com/CoinCapDev/CoinCap.io)
+  * last 24 hours in 5 minute intervals
+  * weekly at hourly interviews
+  * yearly at daily intervals
+* [CoinMarketCap](https://coinmarketcap.com/api/)
+  * realtime at 1 minute intervals
+  * [weekly](https://coinmarketcap.com/historical/)
+* [CoinMetrics](https://coinmetrics.io/data-downloads/)
+  * daily
+* [CryptoCompare](https://min-api.cryptocompare.com)
+  * realtime at 10 second intervals
+  * last 7 days at minute intervals
+  * hourly since inception
+* [CryptoWatch](https://cryptowat.ch/docs/api) - 👍
+  * realtime data for every exchange
+  * historical data for each exchange at a variety of intervals
+* [Quandl](https://www.quandl.com/search?query=btc) + data sharing platform
+  * seems all are at daily intervals
+* [Spreadstreet](https://spreadstreet.io/database/) - data sharing paltform
+  * all sorts of historical data sets, including ones from inception at ~1-5 minute intervals
+
+Developer Tools:
 
 * [Coingraph](https://github.com/derogab/coingraph)
-* [Crypto Tracker](https://github.com/EthVentures/CryptoTracker)
+* [CryptoCMD](https://github.com/guptarohit/cryptoCMD) - python
+* [CryptoTracker](https://github.com/EthVentures/CryptoTracker)
+* [Lionshare API](https://github.com/lionsharecapital/lionshare-api)
+* [Stackoverflow Question](https://opendata.stackexchange.com/questions/6884/cryptocurrency-historical-prices)
 
 ### Analysis
 
-* [Lark](https://larkapp.io) - ios, android - upcoming
-* [Setcoins](https://www.setcoins.com) - ios
-* [Crypto Parse](http://cryptoparse.io) - sentiment analysis
-* [BFX Data](https://bfxdata.com) - heatmaps
+* [BFXdata](https://bfxdata.com) - heatmaps
 * [Bitcoin Wisdom](https://bitcoinwisdom.com)
-* [Coinflash: Googlebot](https://coinflashapp.com/googlebot.html) - google trends
+* [CoinDance](https://coin.dance/stats) - all sorts of interesting data about crypto markets, governments, everything
+* [CoinFlash: Googlebot](https://coinflashapp.com/googlebot.html) - google trends
+* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
 * [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
 * [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
-* [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
-* [Crypto Trend](https://www.cryptotrend.io) - google trends
+* [CryptoCurrent](https://www.cryptocurrent.co) - google trends
+* [CryptoGround: What if?](https://www.cryptoground.com/what-if) - historical day dreaming
+* [CryptoParse](http://cryptoparse.io) - sentiment analysis
+* [CryptoTrend](https://www.cryptotrend.io) - google trends
+* [Lark](https://larkapp.io) - ios, android - upcoming
+* [SetCoins](https://www.setcoins.com) - ios
 * [The Coin Offering: Social Tracker](https://thecoinoffering.com/social-tracker/) - social media followings
+* [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com) - historical day dreaming
 
 ### Signals
 
 Signals tell you specifcally when to buy or sell
 
 * [Beep](https://beep.network) - alerts when coinbase announces support for new currencies
-* [Bitnary](http://www.bitnary.co)
-* [Coindera](https://www.coindera.com)
+* [BitNary](http://www.bitnary.co)
+* [CoinDera](https://www.coindera.com)
 * [CoinFi](https://coinfi.com)
-* [Crypto Central](https://cryptocentral.a) - signals for arbitrage trading
-* [Crypto ML](https://crypto-ml.com)
+* [CryptoCentral](https://cryptocentral.a) - signals for arbitrage trading
+* [CryptoML](https://crypto-ml.com)
 * [Signals](https://signals.network)
-* [What Will Bitcoin Be Worth?](https://www.whatwillbitcoinbeworth.com)
 
 ### Alerts
 
@@ -384,61 +432,6 @@ Alerts tell you when certain things happen
 * [Cryptalert](https://cryptalert.com)
 * [Coinvalue](https://www.coinvalue.xyz)
 * [Coinvision](https://www.coinvision.co)
-
-
-
-
-## Data
-
-These need to merged into the above section at some point. With `+ api`, `+ historical`, `+ realtime`, `+ analysis` if they have them.
-
-### Clients
-
-These are tools for fetching data
-
-* [Crypto CMD](https://github.com/guptarohit/cryptoCMD) - python
-
-### APIs
-
-* [Alpha Vantage](https://www.alphavantage.co/documentation)
-* [BFX Data](https://www.bfxdata.com/datadownload)
-* [Coin Market Cap](https://coinmarketcap.com/historical/) - every minute
-* [Coin Metrics](https://coinmetrics.io/data-downloads)
-* [Coincap](https://coincap.io) - 15 minutes
-* [Crypto Compare](https://www.cryptocompare.com/api)
-* [Lionshare API](https://github.com/lionsharecapital/lionshare-api)
-* [Quandl](https://www.quandl.com/collections/markets/bitcoin-data)
-* [Spreadstreet](https://spreadstreet.io)
-* [Stack Exchange Question](https://opendata.stackexchange.com/q/6884/19570)
-
-### 1 Hour
-
-* [Coindar](https://coindar.org/coins/)
-* [Crypto Nirvana](https://www.cryptonirvana.com)
-
-### Realtime
-
-* [BFX Data](https://www.bfxdata.com)
-* [Bstreet](http://www.bstreet.io)
-* [Coinsranks](https://coinsranks.com)
-* [Crypto Ground](https://www.cryptoground.com/exchange)
-* [Crypto Watch](https://cryptowat.ch)
-
-### General
-
-* [Apogee Crypto](https://www.apogeecrypto.com)
-* [Bitcoin Charts](https://bitcoincharts.com)
-* [Coin Dance](https://coin.dance/stats)
-* [Coin Market Cap](https://coinmarketcap.com)
-* [Coin Ranking](https://coinranking.com)
-* [Coincap](https://coincap.io)
-* [Crypto Compare](https://www.cryptocompare.com/coins)
-* [Crypto Current](https://www.cryptocurrent.co/all)
-* [Crypto Ground](https://www.cryptoground.com/what-if)
-* [Crypto Maps](http://cryptomaps.org/?ref=producthunt)
-* [Crypto Money.rocks](https://cryptomoney.rocks/dashboard/db/globalstatistics)
-* [Crypto Nirvana](https://www.cryptonirvana.com)
-* [Moon Stats](https://www.moonstats.com)
 
 
 
