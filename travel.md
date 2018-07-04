@@ -162,7 +162,7 @@ Rent return flights (in case one is needed for a visa):
 
 
 
-## Visas for Australians
+## Countries for Australians
 
 - [Visas](http://dfat.gov.au/travel/visas/Pages/visas-for-australians-travelling-overseas.aspx)
 - [Consulates](http://protocol.dfat.gov.au/Consulate/listStates.rails?state=8)
