@@ -115,10 +115,6 @@ date: 2017-01-13
 - <https://github.com/galkahana/HummusJS>
 - <https://github.com/sgr-ksmt/PDFGenerator>
 
-### Editors
-
-- <https://github.com/quilljs/quill/>
-
 ### Authentication
 
 - <https://www.gauthify.com>
@@ -164,11 +160,6 @@ date: 2017-01-13
 - <https://gist.github.com/StephanHoyer/bddccd9e159828867d2a>
 
 
-## Swift
-
-- <https://github.com/oarrabi/Guaka>
-- <https://github.com/oarrabi/Swiftline>
-
 ## Fish
 
 - <https://fisherman.github.io>
@@ -186,7 +177,8 @@ date: 2017-01-13
 
 ## Static Site Generators
 
-[Thoughts](https://medium.com/@balupton/2017s-generation-of-static-site-generators-164c3b7b9f97)
+- [Thoughts](https://medium.com/@balupton/2017s-generation-of-static-site-generators-164c3b7b9f97)
+- [List](https://staticsitegenerators.net)
 
 ### Content Management Systems
 
