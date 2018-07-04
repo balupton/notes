@@ -27,6 +27,8 @@ Shipping:
 
 ### Flying
 
+[My checklist for booking flights.](https://gist.github.com/balupton/9450609)
+
 Search:
 
 - [Google Flights](https://flights.google.com)
