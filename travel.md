@@ -4,61 +4,6 @@ date: '2017-01-14'
 ---
 
 
-## Legal
-
-### Tax
-
-- [International Taxation](https://en.m.wikipedia.org/wiki/International_taxation)
-- [Economic Citizenship](https://en.wikipedia.org/wiki/Economic_citizenship)
-- [World Tax](https://www.world.tax)
-- [Summary](http://www.ey.com/Publication/vwLUAssets/Worldwide_Personal_Tax_and_Immigration_Guide_2016-17/%24FILE/Worldwide%20Personal%20Tax%20and%20Immigration%20Guide%202016-17.pdf)
-
-### Visas
-
-- [Nomad List](https://nomadlist.com/#short_term_cost_in_usd=%3C%24750%2Fm&temperature=warm)
-- [The Base Trip](https://www.thebasetrip.com/?ref=producthunt)
-- [Visa HQ](https://www.visahq.com.au)
-
-### Passports
-
-- [Get a UK Passport](https://www.gov.uk/contact-ukvi-inside-outside-uk) - [Resume your Application](https://passportapplication.service.gov.uk/ips-olc/?backtoPage=https://passportapplication.service.gov.uk/ips-olc/lo90_03.start)
-
-### Visa Free Access
-
-British:
-
-- [Map](https://upload.wikimedia.org/wikipedia/commons/c/c2/Visa_requirements_for_British_citizens.png)
-- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens)
-
-Australian:
-
-- [Map](https://upload.wikimedia.org/wikipedia/commons/9/94/Visa_requirements_for_Australian_citizens.png)
-- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens)
-
-Saint Kitts and Nevis:
-
-- [Map](https://upload.wikimedia.org/wikipedia/commons/d/d5/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens.png)
-- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens)
-
-### Renouncing Australian Residency
-
-Resources:
-
-- <http://aec.gov.au/Enrolling_to_vote/overseas/index.htm>
-- <https://www.ato.gov.au/Individuals/International-tax-for-individuals/Work-out-your-tax-residency/>
-- <https://www.ato.gov.au/individuals/lodging-your-tax-return/do-you-need-to-lodge-a-tax-return-/>
-- <https://www.ing.com.au/help-and-support/tips-hints-guides/CRS-and-Fatca-glossary.html>
-- <https://www.ato.gov.au/General/International-tax-agreements/In-detail/Common-Reporting-Standard/?=redirected>
-
-FAQ:
-
-- <https://www.exfin.com/australian-tax-faqs>
-- <http://www.mondaq.com/australia/x/206608/Income+Tax/non+australian+resident+for+tax+purposes>
-- <http://nomadcapitalist.com/2015/10/14/taxes-australians-working-overseas/>
-- <https://www.cgw.com.au/publication/think-you-are-a-non-resident-of-australia-for-tax-purposes-think-again/>
-
-
-
 ## Logistics
 
 ### Insurance
@@ -124,25 +69,25 @@ Australia:
 
 - When converting cash from one currency to another, always do it via bank chains, never independent converters (no matter how many authorised, official, etc signage they have). Look around and compare rates, there are usually a few chains, or specific areas, that are always better than the competition.
 
-    - Never use Travelex, their rates are 17% less than market rates, and with the undisclosed fees they become 25% less than the market rate - which means using Travelex is a guaranteed way to lose a quarter of your money instantly.
+    - Never use Travelex, their rates are 17% less than market rates, and with the undisclosed fees, they become 25% less than the market rate - which means using Travelex is a guaranteed way to lose a quarter of your money instantly.
     
-    - Typical bank chains (including those at airports) will be about 7% less than market rate. A good target rate is 2% below market rate, sometimes you can even find better.
+    - Typical bank chains (including those at airports) will be about 7% less than the market rate. A good target rate is 2% below market rate, sometimes you can even find better.
 
-- When counting/exchanging cash, such as purchasing something at a random store or getting money converted, be alert and disciplined. Count your notes by placing each note down onto a stack, verbalising the count, so everyone can see how much money you counted. Make sure at all costs, they do not touch the stack until you have counted everything. Have them affirm the count and accept the count that you made, rather than having them take your money and do their own count (they can do that later after the mutual affirm though). You do this because, as soon as they touch your money, they can hide some, either by folding a note behind another note (so when they count 4 instead of 5 and show you, there are only 4 visible), or by taking your partly counted stack, counting themselves and slipping some notes behind an object. Counting this way, deters them from cheating you, as their cheat would be inconsistent with their earlier affirmation of the mutual count. If you are new to this, have a friend film your experience and if the business does not want the exchange filmed, then get out. You will notice reputable places often count money when issuing your change, the trick is just to do that before the sale, not just after.
+- When counting/exchanging cash, such as purchasing something at a random store or getting money converted, be alert and disciplined. Count your notes by placing each note down onto a stack, verbalising the count, so everyone can see how much money you counted. Make sure at all costs, they do not touch the stack until you have counted everything. Have them affirm the count and accept the count that you made, rather than having them take your money and do their own count (they can do that later after the mutual affirm though). You do this because, as soon as they touch your money, they can hide some, either by folding a note behind another note (so when they count 4 instead of 5 and show you, there are only 4 visible), or by taking your partly counted stack, counting themselves and slipping some notes behind an object. Counting this way deters them from cheating you, as their cheat would be inconsistent with their earlier affirmation of the mutual count. If you are new to this, have a friend film your experience and if the business does not want the exchange filmed, then get out. You will notice reputable places often count money when issuing your change, the trick is just to do that before the sale, not just after.
 
-- When negotiating, if you have zero leverage do not attempt a tough guy / firm stance approach, as you have zero bargaining power and they will just laugh at you, rightly so. With minimum leverage, all you have to go for is charm, so be charming. Compliment them excessively and playfully, make it fun, make the exchange fun. Don't pretend that is not what you are doing as then that is deceptive, and everyone likes flattery in the moment, even if it is for show. Fattery for show is different than fake flatery. In the same way satire is different than lying. Compliment them on virtues like honesty and integrity and customer satification, to help elicit them. If you have leverage, no one likes losing an arm wrestle, so only play leverage if rapport failed (in which case play it as hard as you can while still remaining accurate - never boast), or once you already have rapport. Negotiation should be fun, if it isn't, you've already dug your own hole, and will only continue to dig it deeper.
+- When negotiating, if you have zero leverage do not attempt a tough guy / firm stance approach, as you have zero bargaining power and they will just laugh at you, rightly so. With minimum leverage, all you have to go for is charm, so be charming. Compliment them excessively and playfully, make it fun, make the exchange fun. Don't pretend that is not what you are doing as then that is deceptive, and everyone likes flattery in the moment, even if it is for show. Flattery for show is different than fake flattery, in the same way that satire is different than lying. Compliment them on virtues like honesty and integrity and customer satisfaction, to help elicit them. If you have leverage, no one likes losing an arm wrestle, so only play leverage if rapport failed (in which case play it as hard as you can while still remaining accurate - never boast), or once you already have rapport. Negotiation should be fun, if it isn't, you've already dug your own hole, and will only continue to dig it deeper.
 
-    - If a business deal ever goes south. Remember you had a part in it. Always be just yet fair. Always be pleasant, even if the situation is unpleasant, as doing so will maintain your reputation, which is an ever lasting ever present thing now. Often people you deal with are inexperienced, and failures happen - use your position of knowledge to coach people, so even the inexperienced can work to fulfill your requriements. If you are both in a pickle together, then both coach each other through it.
+    - If a business deal ever goes south. Remember you had a part in it. Always be just yet fair. Always be pleasant, even if the situation is unpleasant, as doing so will maintain your reputation, which is an everlasting ever present thing now. Often people you deal with are inexperienced, and failures happen - use your position of knowledge to coach people so even the inexperienced can work to fulfill your requirements. If you are both in a pickle together, then both coach each other through it.
     
-        > For instance, asking a hotel about wifi speeds? Give them very specific instructions on how to determine that, and help them determine that (as they may think wifi speeds means wifi speed, not internet speed, pun intended) - and if they can't determine it, then thank them for their time. This can save you hundreds of dollars, stress and headaches, booking a place that doesn't have good internet (but yet good wifi). If you are in that mistake currently, then recognise your failure in communication, and work towards something that is fair for everyone. Your leverage is that you stated your requirements and they were not met. Their leverage is inexperience. Don't make their inexperience shameful, make it a moment of growth for both of you. Leave a fair and accurate review all things considered, not a review based entirely on the one thing that screwed you.
+        - For instance, asking a hotel about wifi speeds? Give them very specific instructions on how to determine that, and help them determine that (as they may think wifi speeds means wifi speed, not internet speed, pun intended) - and if they can't determine it, then thank them for their time. This can save you hundreds of dollars, stress and headaches, booking a place that doesn't have good internet (but yet good wifi). If you are in that mistake currently, then recognise your failure in communication, and work towards something that is fair for everyone. Your leverage is that you stated your requirements and they were not met. Their leverage is inexperience. Don't make their inexperience shameful, make it a moment of growth for both of you. Leave a fair and accurate review with all things considered, not a review based entirely on the one thing that screwed you.
         
-        > Got to a hotel and they booked your room to someone else, and insist that your room is an upgrade when it is clearly a downgrade? State that the situation and practice are not acceptable, it was not agreed, it voids the agreement, and that you request a refund. As you work through the refund, do so amicably. They have zero leverage, so you have all the cards, use those cards to maintain a peaceful atmosphere. State exactly what happened in a 2/5 review after the fact, so that there is a consequence and hopefully the practice changes — 2/5 as you did get your money back.
+        - Got to a hotel and they booked your room to someone else, and insist that your room is an upgrade when it is clearly a downgrade? State that the situation and practice are not acceptable, it was not agreed, it voids the agreement, and that you request a refund. As you work through the refund, do so amicably. They have zero leverage, so you have all the cards, use those cards to maintain a peaceful atmosphere. State exactly what happened in a 2/5 review after the fact, so that there is a consequence and hopefully the practice changes — 2/5 as you did get your money back.
         
-        > Got screwed over by a motorbike rental or by a tyranical bureaucracy? Here there is very little you can do, as they have all the leverage (despite the situation being unjust, in practice you have zero rights as the local always wins with enforcement, and you likely have a plane to not miss). Use any evidence and local allies you have to state your case. For allies see next dot point. Be humble, however, in this situation, you may have to criticise their actions through the contrast of their virtues. Be firm, never bombastic, never bluff. You are winning if your case intimidates them, as that is their tactic to you. Often they have some bluff to them, as they also don't want to deal with currupt bureaucracies, lose standing with their peers, or future money. But in all, all you can hope for here is a minimum compromise. Calculate what the minimum compromise they will accept (not just what they say they will accept), provide it and leave. If they come after you screaming, then your calculation was wrong, in which case, good luck. If your calculation was right, they'd voice some protests, but accept the outcome nonetheless.
+        - Got screwed over by a motorbike rental or by a tyrannical bureaucracy? Here there is very little you can do, as they have all the leverage (despite the situation being unjust, in practice you have zero rights as the local always wins with enforcement, and you likely have a plane to not miss). Use any evidence and local allies you have to state your case. For allies see next dot point. Be humble, however, in this situation, you may have to criticise their actions through the contrast of their virtues. Be firm, never bombastic, never bluff. You are winning if your case intimidates them, as that is their tactic to you. Often they have some bluff to them, as they also don't want to deal with corrupt bureaucracies, lose standing with their peers, or future money. But in all, all you can hope for here is a minimum compromise. Calculate what the minimum compromise they will accept (not just what they say they will accept), provide it and leave. If they come after you screaming, then your calculation was wrong, in which case, good luck. If your calculation was right, they'd voice some protests, but accept the outcome nonetheless.
 
-- Make allies. Be the person who people remember with a smile at the end of their day. As you pass people by, even on the motorbike, wave and smile at everyone, especially Indonesians. Indonesians are extroverted, love company, and love smiling. So make the most of it. Talk with them at any opportunity you have. They are generally always happy to talk, even if they speak no English, a conversation of hand signals and smiling and knodding will go far.
+- Make allies. Be the person who people remember with a smile at the end of their day. As you pass people by, even on the motorbike, wave and smile at everyone, especially Indonesians. Indonesians are extroverted, love company and love smiling. So make the most of it. Talk with them at any opportunity you have. They are generally always happy to talk, even if they speak no English, a conversation of hand signals and smiling and nodding will go far.
 
-    - Make friends with security guards, chauffeurs, and other like staff. They are often cool people, and most of them will have a side business that you may be interested in. Also, if you ever have an issue with management, they are the people who will have your side and put in a good word, or even let things slide. They deal with bureaucracies all day long, so they know the ins and outs.
+    - Make friends with security guards, chauffeurs, and similar staff. They are often cool people, and most of them will have a side business that you may be interested in. Also, if you ever have an issue with management, they are the people who will have your side and put in a good word, or even let things slide. They deal with bureaucracies all day long, so they know the ins and outs.
 
 ### Other Tips
 
@@ -152,11 +97,11 @@ Australia:
 
     - Consider going to a helmet shop and getting a proper helmet with chin protection and a visor. They will be between $10-25USD. If the particular store doesn't have a helmet in your size (say for the ladies and other people with smaller heads), then just shop around. Ask a local if they know anywhere, or ask what they call motorbike helmet stores, and search google maps. Also keep a lookout for them, as most businesses are not on any map service in Asia.
     
-    - If you are first driving a motorbike/scooter in Asia. It takes about 4 hours to learn the mechanics of it (go around in an 8 circle until you can do it perfectly, with mirrors and indicators, clockwise and anticlockwise - plus practice braking by imagining obstacle surprises, you will need to emergency break a lot, and you need to learn how to break without thrusting your acceleration), and about 3 days to feel confidence, and about 2 weeks to feel comfortable, and about 2 months to stop making mistakes. However, do not confuse your technical ability of the bike's mechanics, with your ability of assimilation within the driving ecosystem - they are not correlated, and the latter takes months to develop. As such, foreigner get into accidents as they quickly become experienced with the bike, drive well, feel confident, then crash horrifically when something unexpected happens due to their inexperience. Unexpected things happen all the time, and often for insensible reasons. A local will decide to stop immediately in the far left lane, then swerve to do a right turn, without any conception of surroundings. Or you could be driving down a major laneway at 60km/h only to discover you just zoomed through an unmarked intersection with another laneway were people were also driving 60km/h. Or a dog or tree branch or bird or moth or person or car door, or whatever could hit you. Etc etc. As such, get a motorbike license in your home country. In Australia it'll be about $500-750AUD all up over say 3 months. But you will learn defensive driving, which practice will save your life multiple times, as with motorbikes any signficant accident means signficant injury / death. Plus, it also means if you get an international driving license of your home country's driving license, then you can drive legally in recognised countries, and thus avoid fines (if you don't have an international driving license that is recognised on you, with your passport, or a local driving license, then you are driving illegally, and will get fined at some point).
+    - If you are first driving a motorbike/scooter in Asia. It takes about 4 hours to learn the mechanics of it (go around in an 8 circle until you can do it perfectly, with mirrors and indicators, clockwise and anticlockwise - plus practice braking by imagining obstacle surprises, you need to learn how to break without thrusting your acceleration.), and about 3 days to feel confidence, and about 2 weeks to feel comfortable, and about 2 months to stop making mistakes. However, do not confuse your technical ability of the bike's mechanics, with your ability of assimilation within the driving ecosystem - they are not correlated, and the latter takes months to develop. As such, foreigners get into accidents as they quickly become experienced with the bike, drive well, feel confident, then crash horrifically when something unexpected happens due to their inexperience. Unexpected things happen all the time, and often for insensible reasons. A local will decide to stop immediately in the far left lane, then swerve to do a right turn, without any conception of surroundings. Or you could be driving down a major laneway at 60km/h only to discover you just zoomed through an unmarked intersection with another laneway were people were also driving 60km/h. Or a dog or tree branch or bird or moth or person or car door, or whatever could hit you. Etc etc. As such, get a motorbike license in your home country. In Australia, it'll be about $500-750AUD all up over say 3 months. But you will learn defensive driving, which practice will save your life multiple times, as with motorbikes any significant accident means significant injury/death. Plus, it also means if you get an international driving license of your home country's driving license, then you can drive legally in recognised countries, and thus avoid fines (if you don't have an international driving license that is recognised on you, with your passport, or a local driving license, then you are driving illegally, and will get fined at some point).
 
 - If you find a business you like, add it to Google Maps. I would suggest adding to Apple Maps, but their process for adding things is too inconvenient to bother. The extra traffic a Google Maps addition will give them, can save their business and help put their son through school and university. True story.
 
-- If you are doing a flight longer than 8 hours. Wear a facial mask as soon as you sit down in the aeroplane - although inform the flight attendents that you are doing so to help prevent yourself from getting sick - as otherwise you will get some questioning. In all, I've found this helps me not get sick, as well as offer extra room as your seat neighbours don't really want to be bumping elbows with someone wearing a mask. Also drink a lot of water, hydration is also very important to make sure you don't get sick.
+- If you are doing a flight longer than 8 hours. Wear a facial mask as soon as you sit down in the aeroplane - although inform the flight attendants that you are doing so to help prevent yourself from getting sick - as otherwise, you will get some questioning. In all, I've found this helps me not get sick, as well as offer extra room as your seat neighbours don't really want to be bumping elbows with someone wearing a mask. Also, drink a lot of water, hydration is also very important to make sure you don't get sick.
 
     - Most budget airlines do not serve free water. However, they do serve free ice and free hot water. I'll let you figure out the rest.
 
@@ -304,6 +249,62 @@ is 106kg, 124.8cc, 5.5 litre, 135mm gc
 
 
 
+
+## Legal
+
+### Tax
+
+- [International Taxation](https://en.m.wikipedia.org/wiki/International_taxation)
+- [Economic Citizenship](https://en.wikipedia.org/wiki/Economic_citizenship)
+- [World Tax](https://www.world.tax)
+- [Summary](http://www.ey.com/Publication/vwLUAssets/Worldwide_Personal_Tax_and_Immigration_Guide_2016-17/%24FILE/Worldwide%20Personal%20Tax%20and%20Immigration%20Guide%202016-17.pdf)
+
+### Visas
+
+- [Nomad List](https://nomadlist.com/#short_term_cost_in_usd=%3C%24750%2Fm&temperature=warm)
+- [The Base Trip](https://www.thebasetrip.com/?ref=producthunt)
+- [Visa HQ](https://www.visahq.com.au)
+
+### Passports
+
+- [Get a UK Passport](https://www.gov.uk/contact-ukvi-inside-outside-uk) - [Resume your Application](https://passportapplication.service.gov.uk/ips-olc/?backtoPage=https://passportapplication.service.gov.uk/ips-olc/lo90_03.start)
+
+### Visa Free Access
+
+British:
+
+- [Map](https://upload.wikimedia.org/wikipedia/commons/c/c2/Visa_requirements_for_British_citizens.png)
+- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens)
+
+Australian:
+
+- [Map](https://upload.wikimedia.org/wikipedia/commons/9/94/Visa_requirements_for_Australian_citizens.png)
+- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens)
+
+Saint Kitts and Nevis:
+
+- [Map](https://upload.wikimedia.org/wikipedia/commons/d/d5/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens.png)
+- [List](https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens)
+
+### Renouncing Australian Residency
+
+Resources:
+
+- <http://aec.gov.au/Enrolling_to_vote/overseas/index.htm>
+- <https://www.ato.gov.au/Individuals/International-tax-for-individuals/Work-out-your-tax-residency/>
+- <https://www.ato.gov.au/individuals/lodging-your-tax-return/do-you-need-to-lodge-a-tax-return-/>
+- <https://www.ing.com.au/help-and-support/tips-hints-guides/CRS-and-Fatca-glossary.html>
+- <https://www.ato.gov.au/General/International-tax-agreements/In-detail/Common-Reporting-Standard/?=redirected>
+
+FAQ:
+
+- <https://www.exfin.com/australian-tax-faqs>
+- <http://www.mondaq.com/australia/x/206608/Income+Tax/non+australian+resident+for+tax+purposes>
+- <http://nomadcapitalist.com/2015/10/14/taxes-australians-working-overseas/>
+- <https://www.cgw.com.au/publication/think-you-are-a-non-resident-of-australia-for-tax-purposes-think-again/>
+
+
+
 ## Countries for Australians
 
 - [Visas](http://dfat.gov.au/travel/visas/Pages/visas-for-australians-travelling-overseas.aspx)
@@ -320,7 +321,7 @@ is 106kg, 124.8cc, 5.5 litre, 135mm gc
     - $35USD for 30 day Visa on Arrival, that can be renewed for $20USD
     - $60USD for 60 day Sosial Budaya Visa, renewable up to **6 months** at $25USD - gotten before arrival
         - <http://wagefreedom.com/a-visa-for-long-stays-in-bali-indonesia-what-you-need-to-know/>
-        - official details of this visa is scarce, as none of the 3 websites that smart traveller reference work - may need to call
+        - official details of this visa are scarce, as none of the 3 websites that smart traveler reference work - may need to call
             - <http://protocol.dfat.gov.au/Mission/view.rails?id=92>
 
 ### Malaysia
@@ -425,7 +426,7 @@ is 106kg, 124.8cc, 5.5 litre, 135mm gc
 
 - Flights
 - Visas
-    - Free **30 day** visa on arrival
+    - Free **30 days** visa on arrival
         - <http://smartraveller.gov.au/countries/pacific/pages/papua_new_guinea.aspx>
 
 ### Cambodia
@@ -439,7 +440,7 @@ is 106kg, 124.8cc, 5.5 litre, 135mm gc
 
 - Flights
 - Visa
-    - 3 month single-entry visa prior
+    - 3-month single-entry visa prior
         - <https://myanmar.visahq.com.au>
         - <http://smartraveller.gov.au/Countries/asia/south-east/Pages/myanmar.aspx>
 
@@ -470,9 +471,9 @@ is 106kg, 124.8cc, 5.5 litre, 135mm gc
 ### Bhutan
 
 - Flights
-    - No flights on adioso or skyscanner
+    - No flights on Adioso or Sky Scanner
 
-### Solomon Islands
+### The Solomon Islands
 
 - Flights
 - Visa
