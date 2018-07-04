@@ -122,6 +122,29 @@ Australia:
 - [Boost](https://boost.com.au) - for outback
 
 
+## Airports
+
+### Kuala Lumpur
+
+Takes about 20 minutes to transfer between KLIA1 and KLIA2 via the subway, which is the quickest route.
+
+Veganism:
+
+- [KLIA2: BMS Organics](https://goo.gl/maps/wqjaZjEubsF2)
+- [KLIA2: Subway](https://goo.gl/maps/dMDSpRrpxR82)
+
+
+### Singapore
+
+[T2 to T3 transfer does not operate between 2.30am and 5am](http://www.changiairport.com/en/transport/transfer-between-terminals.html)
+
+Veganism:
+
+- [Terminal 2 Level 3: Kaveri](http://www.changiairport.com/en/shop-and-dine/dining/kaveri-vegetarian-cuisine.html)
+- [Terminal 3 Level 4: Bikanervala](http://www.changiairport.com/en/shop-and-dine/dining/bikanervala.html)
+- [Terminal 4 Level 2M: International Food Hall](http://www.changiairport.com/en/shop-and-dine/dining/international-food-hall.html)
+
+
 ## Gear
 
 ### Regulations
