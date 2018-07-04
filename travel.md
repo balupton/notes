@@ -65,6 +65,7 @@ FAQ:
 
 N26 Black:
 
+- [N26](https://balupton.com/n26)
 - [Email](mailto:n26@allianz-assistance.de)
 - [Phone](tel:+4989244414100)
 
@@ -96,7 +97,6 @@ Rent return flights (in case one is needed for a visa):
 
 - [Fly Onward](https://flyonward.com/en/)
 
-
 ### Simcards
 
 Global:
@@ -115,6 +115,34 @@ Australia:
 
 - [Amaysim](https://balupton.com/amaysim) - for cities
 - [Boost](https://boost.com.au) - for outback
+
+### Money
+
+- Signup for [TransferWise](https://balupton.com/transferwise), use that for all money transfers.
+
+- Signup for [N26](https://balupton.com/n26) next time you are in Europe, use that as your only bank. Signup for N26 Black if you need cash withdrawals, which is essential if living in Asia. Let N26 do the currency conversion rather than the EFTPOS machine, ATM, POS, checkout, etc, as N26 will always give you a better rate (the difference in rate pretty much pays for N26 Black). N26 uses the TransferWise rates.
+
+- When converting cash from one currency to another, always do it via bank chains, never independent converters (no matter how many authorised, official, etc signage they have). Look around and compare rates, there are usually a few chains, or specific areas, that are always better than the competition.
+
+    - Never use Travelex, their rates are 17% less than market rates, and with the undisclosed fees they become 25% less than the market rate - which means using Travelex is a guaranteed way to lose a quarter of your money instantly.
+    
+    - Typical bank chains (including those at airports) will be about 7% less than market rate. A good target rate is 2% below market rate, sometimes you can even find better.
+
+- When counting/exchanging cash, such as purchasing something at a random store or getting money converted, be alert and disciplined. Count your notes by placing each note down onto a stack, verbalising the count, so everyone can see how much money you counted. Make sure at all costs, they do not touch the stack until you have counted everything. Have them affirm the count and accept the count that you made, rather than having them take your money and do their own count. As soon as they touch your money, they can hide some, either by folding a note behind another note (so when they count 4 instead of 5 and show you, there are only 4 visible), or by taking your partly counted stack, counting themselves and slipping some notes behind an object. Counting must be done together, never independent. If you are new to this, have a friend film your experience, if they do not want the exchange filmed, then get out.
+
+- When negotiating, if you have zero leverage do not attempt a tough guy / firm stance approach, as you have zero bargaining power and they will just laugh at you, rightly so. With minimum leverage, all you have to go for is charm, so be charming. Compliment them excessively and playfully, make it fun, make the exchange fun. Don't pretend that is not what you are doing as then that is deceptive, and everyone likes flattery in the moment, even if it is for show. Fattery for show is different than fake flatery. In the same way satire is different than lying. Compliment them on virtues like honesty and integrity and customer satification, to help elicit them. If you have leverage, no one likes losing an arm wrestle, so only play leverage if rapport failed (in which case play it as hard as you can while still remaining accurate - never boast), or once you already have rapport. Negotiation should be fun, if it isn't, you've already dug your own hole, and will only continue to dig it deeper.
+
+    - If a business deal ever goes south. Remember you had a part in it. Always be just yet fair. Always be pleasant, even if the situation is unpleasant, as doing so will maintain your reputation, which is an ever lasting ever present thing now. Often people you deal with are inexperienced, and failures happen - use your position of knowledge to coach people, so even the inexperienced can work to fulfill your requriements. If you are both in a pickle together, then both coach each other through it.
+    
+        > For instance, asking a hotel about wifi speeds? Give them very specific instructions on how to determine that, and help them determine that (as they may think wifi speeds means wifi speed, not internet speed, pun intended) - and if they can't determine it, then thank them for their time. This can save you hundreds of dollars, stress and headaches, booking a place that doesn't have good internet (but yet good wifi). If you are in that mistake currently, then recognise your failure in communication, and work towards something that is fair for everyone. Your leverage is that you stated your requirements and they were not met. Their leverage is inexperience. Don't make their inexperience shameful, make it a moment of growth for both of you.
+        
+        > Got to a hotel and they booked your room to someone else, and insist that your room is an upgrade when it is clearly a downgrade? State that the situation and practice are not acceptable, it was not agreed, it voids the agreement, and that you request a refund. As you work through the refund, do so amicably. They have zero leverage, so you have all the cards, use those cards to maintain a peaceful atmosphere.
+        
+        > Got screwed over by a motorbike rental or by a tyranical bureaucracy? Here there is very little you can do, as they have all the leverage (despite the situation being unjust, in practice you have zero rights as the local always wins with enforcement, and you likely have a plane to not miss). Use any evidence and local allies you have to state your case. For allies see next dot point. Be humble, however, in this situation, you may have to criticise their actions through the contrast of their virtues. Be firm, never bombastic, never bluff. You are winning if your case intimidates them, as that is their tactic to you. Often they have some bluff to them, as they also don't want to deal with currupt bureaucracies, lose standing with their peers, or future money. But in all, all you can hope for here is a minimum compromise. Calculate what the minimum compromise they will accept (not what they say they will accept), provide it and leave. If they come after you screaming, then your calculation was wrong, in which case, good luck. If your calculation was right, they'd voice some protests, but accept the outcome nonetheless.
+
+- Make allies. Be the person who people remember with a smile at the end of their day. As you pass people by, even on the motorbike, wave and smile at everyone, especially Indonesians. Indonesians are extroverted, love company, and love smiling. So make the most of it. Talk with them at any opportunity you have. They are generally always happy to talk, even if they speak no English, a conversation of hand signals and smiling and knodding will go far.
+
+    - Make friends with security guards, chauffeurs, and other like staff. They are often cool people, and most of them will have a side business that you may be interested in. Also, if you ever have an issue with management, they are the people who will have your side and put in a good word, or even let things slide.
 
 
 ## Airports
