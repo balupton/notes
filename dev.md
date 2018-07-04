@@ -4,26 +4,6 @@ date: 2017-01-13
 ---
 
 
-## Legal
-
-### Book Keeping
-- [Momento](https://www.momenteo.com)
-- [Zipbooks](https://zipbooks.com)
-
-### Contracts
-- [My own contracts](https://balupton.com/contracts)
-- [iubenda](https://www.iubenda.com)
-- [Bonsai](https://balupton.com/bonsai)
-- [Contract Hound](https://www.contracthound.com)
-- [Creative Class](https://creativeclass.io/contract/)
-
-### Time Tracking
-- [Timelines](http://timelinesapp.io)
-- [Timesink](https://manytricks.com/timesink/)
-- [qbserve](https://qotoqot.com/qbserve/)
-- [Timing](https://timingapp.com)
-
-
 ## Jobs
 
 ### Assistance
@@ -78,6 +58,26 @@ date: 2017-01-13
 - [N26](https://n26.com/jobs/)
 - [Serverless](https://serverless.com/company/jobs/)
 - [Hull](http://hull.io)
+
+
+## Legal
+
+### Book Keeping
+- [Momento](https://www.momenteo.com)
+- [Zipbooks](https://zipbooks.com)
+
+### Contracts
+- [My own contracts](https://balupton.com/contracts)
+- [iubenda](https://www.iubenda.com)
+- [Bonsai](https://balupton.com/bonsai)
+- [Contract Hound](https://www.contracthound.com)
+- [Creative Class](https://creativeclass.io/contract/)
+
+### Time Tracking
+- [Timelines](http://timelinesapp.io)
+- [Timesink](https://manytricks.com/timesink/)
+- [qbserve](https://qotoqot.com/qbserve/)
+- [Timing](https://timingapp.com)
 
 
 
