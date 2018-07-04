@@ -6,25 +6,22 @@ date: 2017-01-13
 
 ## Legal
 
-### AI VC
-- <http://www.theaivc.com>
-
 ### Book Keeping
-- <https://www.momenteo.com>
-- <https://zipbooks.com>
+- [Momento](https://www.momenteo.com)
+- [Zipbooks](https://zipbooks.com)
 
 ### Contracts
-- <https://www.iubenda.com/en/>
-- <https://www.hellobonsai.com/projects>
-- <https://balupton.com/contracts>
-- <https://www.contracthound.com>
-- <https://creativeclass.io/contract/>
+- [My own contracts](https://balupton.com/contracts)
+- [iubenda](https://www.iubenda.com)
+- [Bonsai](https://balupton.com/bonsai)
+- [Contract Hound](https://www.contracthound.com)
+- [Creative Class](https://creativeclass.io/contract/)
 
 ### Time Tracking
-- <http://timelinesapp.io>
-- <https://manytricks.com/timesink/>
-- <https://qotoqot.com/qbserve/>
-- <https://timingapp.com>
+- [Timelines](http://timelinesapp.io)
+- [Timesink](https://manytricks.com/timesink/)
+- [qbserve](https://qotoqot.com/qbserve/)
+- [Timing](https://timingapp.com)
 
 
 ## Jobs
@@ -46,7 +43,6 @@ date: 2017-01-13
 - [Remote Base](https://remotebase.io)
 - [Angel List](https://angel.co/job-collections/remote)
 - [Remotive](http://jobs.remotive.io)
-- [SagFi](http://sagfi.com/remote-jobs/)
 - [Remote OK](https://remoteok.io)
 - [Authentic Jobs](https://authenticjobs.com)
 - [Stackoverflow](http://stackoverflow.com/jobs)
@@ -93,85 +89,85 @@ date: 2017-01-13
 - [npms](https://npms.io)
 - [npm](https://npmjs.io)
 
-### Misc
+### Lean
 
-- <https://github.com/abhishekbanthia/Awesome-APIs>
-- <https://github.com/samdutton/simpl>
-- <https://www.javascripting.com>
-- <https://js.coach>
-- <http://kangax.github.io/compat-table/es6/>
+- [Awesome-APIs](https://github.com/abhishekbanthia/Awesome-APIs)
+- [simpl](https://simpl.info)
+- [javascripting](https://www.javascripting.com)
+- [js.coach](https://js.coach)
+- [ecmascript compatibility tables](http://kangax.github.io/compat-table/es6/)
 
 ### Auth
 
-- <https://github.com/zant95/otpauth> - worked with patreon - <https://gist.github.com/balupton/4fb0c82a1d7fc0c4a5636444446e0aa0>
+- [otpauth](https://github.com/zant95/otpauth) - [worked with patreon](https://gist.github.com/balupton/4fb0c82a1d7fc0c4a5636444446e0aa0)
 
 ### Headless Browser
 
-- https://github.com/segmentio/nightmare
+- [nightmare](https://github.com/segmentio/nightmare)
+- [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ### PDF
 
-- <https://github.com/fraserxu/electron-pdf>
-- <https://github.com/galkahana/HummusJS>
-- <https://github.com/sgr-ksmt/PDFGenerator>
+- [electron-pdf](https://github.com/fraserxu/electron-pdf)
+- [Hummus](https://github.com/galkahana/HummusJS)
+- [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
 
 ### Authentication
 
-- <https://www.gauthify.com>
-- <https://github.com/olegabu/cognito-helper>
-- <https://jwt.io>
-- <https://docs.feathersjs.com/authorization/readme.html>
-- <https://github.com/township/township-email>
-- <https://auth0.com/pricing> - they have open-source plans
+- [gauthify](https://www.gauthify.com)
+- [cognito-helper](https://github.com/olegabu/cognito-helper)
+- [JWT](https://jwt.io)
+- [Authentication with Feathers](https://docs.feathersjs.com/authorization/readme.html)
+- [Email Authentication with Township](https://github.com/township/township-email)
+- [Auth0](https://auth0.com/pricing) - they have open-source plan
 
 ### Request
 
-- <https://github.com/visionmedia/superagent>
-- <https://github.com/sindresorhus/got>
-- <https://github.com/kevva/download>
-- <https://github.com/bitinn/node-fetch>
-- <https://github.com/mzabriskie/axios>
+- [superagent](https://github.com/visionmedia/superagent)
+- [got](https://github.com/sindresorhus/got)
+- [download](https://github.com/kevva/download)
+- [node-fetch](https://github.com/bitinn/node-fetch)
+- [axios](https://github.com/mzabriskie/axios)
 
 ### CLI
 
-- <https://github.com/dthree/vorpal> - for prompts and args
-- <https://github.com/vorpaljs/awesome-vorpal >
-- <https://www.npmjs.com/package/inquirer> - for prompts
-- <https://github.com/enquirer/enquirer> - for prompts
-- <https://github.com/yargs/yargs> - for args
-- <https://github.com/tj/commander.js> - for one-time prompts and args
-- <https://github.com/substack/minimist> - for args
-- <https://github.com/mattallty/Caporal.js> - for prompts
+- [vorpal](https://github.com/dthree/vorpal) - for prompts and arg
+- [awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal)
+- [inquirer](https://www.npmjs.com/package/inquirer) - for prompt
+- [enquirer](https://github.com/enquirer/enquirer) - for prompt
+- [yargs](https://github.com/yargs/yargs) - for arg
+- [commander](https://github.com/tj/commander.js) - for one-time prompts and arg
+- [minimist](https://github.com/substack/minimist) - for arg
+- [caporal](https://github.com/mattallty/Caporal.js) - for prompt
 
 ### CLI Colors
 
-- <https://github.com/chalk/chalk>
+- [chalk](https://github.com/chalk/chalk)
 
 ### CLI Commands
 
-- <https://github.com/dthree/cash> - shell terminal as an app
-- <https://github.com/shelljs/shelljs> - shell commands in your app
+- [cash](https://github.com/dthree/cash) - shell terminal as an app
+- [shelljs](https://github.comshelljs/shelljs) - shell commands in your app
 
 ## JavaScript
 
 ### Mithril
 
-- <https://github.com/lhorie/mithril.js/wiki/Community-Projects>
-- <https://gist.github.com/StephanHoyer/bddccd9e159828867d2a>
-
+- [Mithril](https://mithril.js.org)
+- [Mithril Community Projects](https://github.com/lhorie/mithril.js/wiki/Community-Projects)
 
 ## Fish
 
-- <https://fisherman.github.io>
-- <https://github.com/fisherman/await>
-- <https://github.com/edc/bass>
-- <https://github.com/fisherman/choices>
-- <https://github.com/fisherman/menu>
-- <https://github.com/fisherman/get>
+- [fisherman](https://fisherman.github.io)
+- [await](https://github.com/fisherman/await)
+- [bass](https://github.com/edc/bass)
+- [choices](https://github.com/fisherman/choices)
+- [menu](https://github.com/fisherman/menu)
+- [get](https://github.com/fisherman/get)
 
 ## Zsh
 
-- <http://antigen.sharats.me>
+- [antigen.sharats.me](http://antigen.sharats.me)
 
 
 
@@ -192,6 +188,9 @@ date: 2017-01-13
 
 
 ## Themes
+
+- [Creative Trim](http://www.creative-tim.com)
+- [Theme Forest](https://balupton.com/themeforest)
 
 ### MIT License
 - Codex Hub - [preview](http://alogicalparadox.com/codex-hub/) - [source](https://github.com/logicalparadox/codex-hub)
@@ -231,22 +230,22 @@ date: 2017-01-13
 ### Design
 
 - [Ding](https://ding.io)
-- <http://www.sketchappsources.com/all-free-sources.html>
+- [Sketch App Sources(http://www.sketchappsources.com/all-free-sources.html)
 
 ### Learning
 
-- <https://github.com/Developer-Y/cs-video-courses>
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
 ### Logo Generation
 
-https://www.logojoy.com/?utm_source=indie-hackers
+- [Logo Joy](https://www.logojoy.com)
 
 ### Image Optimise
 
-- PNG - pngcrush
-- SVG - svgomg
-- JPEG - Zopfli
-- [App that uses all the above](https://imageoptim.com/mac)
+- PNG: [pngcrush](https://en.wikipedia.org/wiki/Pngcrush)
+- SVG: [svgomg](https://jakearchibald.github.io/svgomg/) - [source](https://github.com/jakearchibald/svgomg)
+- General: [zopfli](https://github.com/google/zopfli) - [brotfli](https://github.com/google/brotli) - [comparison](https://blog.cloudflare.com/results-experimenting-brotli/)
+- [App that uses the best compression algorithm for the job type](https://imageoptim.com/mac)
 
 ### CDNs
 
@@ -254,95 +253,89 @@ https://www.logojoy.com/?utm_source=indie-hackers
 - [unpkg](https://unpkg.com)
 
 ### File Management
-- <https://www.noodlesoft.com>
+- [Noodlesoft's Hazel](https://www.noodlesoft.com)
 
 ### Surveys
-- <https://iteratehq.com>
+- [Iterate](https://iteratehq.com)
 
-### Host Management
-- <http://blog.zhangruipeng.me/Hozz/>
+### [Hosts File](https://en.wikipedia.org/wiki/Hosts_(file)) Management
+- [Hozz](http://blog.zhangruipeng.me/Hozz/)
 
 ### Creation Attribution and Syndication
-- <https://www.po.et>
+- [po.et](https://www.po.et)
 
 ### Prototyping
-- <https://mockingbot.com>
-- <https://www.flinto.com/mac>
-- <http://pattern.is>
-- <https://www.protopie.io>
-- <https://atomic.io>
-
-### Emails
-- <https://safia.rocks/brief/>
+- [Mocking Bot](https://mockingbot.com)
+- [Flinto](https://www.flinto.com/mac)
+- [Pattern.is](http://pattern.is)
+- [Protopie](https://www.protopie.io)
+- [Atomic](https://atomic.io)
 
 ### Email
-- <https://canarymail.io> - direct connection - their landing page say they store nothing, but their policy says otherwise - https://canarymail.io/eula.html 
-- <https://polymail.io/legal/privacy> - unknown, probably they store on their servers
-- <https://newtonhq.com/k/privacypolicy> - they store on their servers
-- <http://airmailapp.com> - no app privacy poicy
-- <https://www.postbox-inc.com/legal/privacy> - no app privacy policy
-- <https://www.helloastro.com/privacy/> - they store on their servers
-- <https://www.hiri.com/privacy/> - no app privacy policy
+- [Canary](https://canarymail.io) - direct connection - their landing page say they store nothing, but [their policy says otherwise](https://canarymail.io/eula.html)
+- [Polymail](https://polymail.io) - [unknown, probably they store on their server](https://polymail.io/legal/privacy)
+- [Netwon](https://newtonhq.com) - [they store on their server](https://newtonhq.com/k/privacypolicy)
+- [Airmail](https://airmailapp.com) - [no app privacy policy](http://airmailapp.com)
+- [Postbox](https://postbox-inc.com) - [no app privacy polic](https://www.postbox-inc.com/legal/privacy)
+- [Astro](https://helloastro.com) - [they store on their server](https://www.helloastro.com/privacy/)
+- [Hiri](https://hiri.com) - [no app privacy policy](https://www.hiri.com/privacy/)
 
 ### Reading
-- <https://getspeechify.com/>
+- [Speechify](https://getspeechify.com/)
 
 ### Coding
-- <https://kite.com>
+- [Kite](https://kite.com)
 
 ### Vector Graphic Design
-- <https://vectr.com>
+- [Vectr](https://vectr.com)
 
 ### Restaurant System
-- <https://strawberrypos.com>
+- [Strawberry POS](https://strawberrypos.com)
 
 ### Server Management
-- <https://commando.io>
-
-### Themes
-- <http://www.creative-tim.com>
+- [Commando](https://commando.io)
 
 ### Inspiration and Success and Learning
-- <https://www.indiehackers.com/businesses>
+- [Indie Hackers](https://www.indiehackers.com/businesses)
 
 ### Working Together
-- <https://www.oneone.io>
+- [OneOne](https://www.oneone.io)
 
 ### Learning Together
-- <https://todarwin.com>
+- [To Darwin](https://todarwin.com)
 
 ### Remoting
-- <http://nomadairlines.com>
+- [Nomad Airlines](http://nomadairlines.com)
 
 ### Writing
-- <https://bold.io> - [about](https://bold.io/about-io-2016-12-06)
+- [Bold.io](https://bold.io) - [about](https://bold.io/about-io-2016-12-06)
 
 ### Write then Review Together
-- https://bold.co
+- [Bold.co](https://bold.co)
 
 ### Feedback and Roadmaps
-- <https://roadmap.space>
+- [roadmap.space](https://roadmap.space)
 
 ### Email Receipt Scanning
-- <https://paperworks.io>
+- [Paperworks](https://paperworks.io)
 
 ### Best Checkout / Store / Product Pages
-- http://www.checkoutpages.xyz
+- [Checkout Pages.xyz](http://www.checkoutpages.xyz)
 
 ### Code Notebooks
-- <https://nteract.io> (built upon jypyter)
-- <https://jupyter.org>
+- [nteract.io](https://nteract.io) - built upon jupyter
+- [jupyter.org](https://jupyter.org)
 
 ### Code Snippets
-- <https://boostnote.io>
+- [Boostnote](https://boostnote.io)
 
 ### Notebooks
-- <https://www.taskpaper.com>
-- <http://www.bear-writer.com>
+- [TaskPaper](https://www.taskpaper.com)
+- [Bear](http://www.bear-writer.com)
 
 ### Focus
-- <https://www.saent.com>
-- <http://actionally.com>
+- [Saent](https://www.saent.com)
+- [Action Ally](http://actionally.com)
 
 ### Kindle Notes
-- <http://knotesapp.com>
+- [Knotes](http://knotesapp.com)
