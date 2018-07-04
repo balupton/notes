@@ -85,7 +85,7 @@ Search:
 - [Google Flights](https://flights.google.com)
 - [Webjet](https://flights.webjet.com.au/)
 - [Adioso](https://adioso.com)
-- [Sky SCanner](https://www.skyscanner.com.au)
+- [Sky Scanner](https://www.skyscanner.com.au)
 
 Pay for your flight over a payment plan:
 
