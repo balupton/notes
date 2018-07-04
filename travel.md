@@ -215,10 +215,10 @@ Veganism:
 ### Bali
 
 Kerobokan, Bali
-- https://goo.gl/maps/bCiKDkk6adN2 - Honda Vario 125 for 30,000IDR/day/month
+- [Dian](https://goo.gl/maps/nJ8inYEfmKP2) - Honda Vario 125 for 30,000IDR/day/month
 
 Seminyak, Bali
-- https://goo.gl/maps/kzoiRQPvMjE2 - Honda Vario 125 for 30,000IDR/day/month
+- [Rudi](https://goo.gl/maps/5kJ7Ju9vRPK2) - Honda Vario 125 for 30,000IDR/day/month - [can recommend](https://goo.gl/maps/KSAX3XYfprR2)
 
 [Honda Vario 125](http://newcar82.blogspot.co.id/2013/03/honda-vario-techno-125-pgm-fi.html?m=1)
 is 112kg, 124.8cc, 5.5 litre, 128mm ground clearance
@@ -233,27 +233,27 @@ is 92kg, 113.7cc, 3.7l, 130mm gc
 ### Thailand
 
 Which Bike?
-- http://catmotors.net/advices-on-the-choice-of-motorbike/
+- [Cat Motors Advice](http://catmotors.net/advices-on-the-choice-of-motorbike/>)
 
 Routes
-- https://www.bsrbikeshop.com/tour-route/
+- [BSR Bikeshop Routes](https://www.bsrbikeshop.com/tour-route/)
 
 Chiang Mai
-- http://www.mangobikesrent.com - Honda Click 125i 2800-3200THB
-- http://www.hireamotorbikechiangmai.com - Honda Click 125i 2500-2800THB
-- http://catmotors.net/our-motorbikes/ - Honda Click 125i 2500-3000THB, with LED 3000-3500THB
+- [Mango Bikes](http://www.mangobikesrent.com) - Honda Click 125i 2800-3200THB
+- [Cat Motors](http://catmotors.net/our-motorbikes/) - Honda Click 125i 2500-3000THB, with LED 3000-3500THB
+- [Generic](http://www.hireamotorbikechiangmai.com) - Honda Click 125i 2500-2800THB
 
 Bangkok
-- http://fatboysmotorbikes.com/bikes/ - Honda Click 125i 3100THB
-- http://www.rentascooterbangkok.com - Honda Click 125 3200THB
-- https://www.bsrbikeshop.com/#rentals-section - Honda Click 3000THB
-- http://www.emmamotorbikes.com/our-motorbikes - prices not listed
+- [Fatboys](http://fatboysmotorbikes.com/bikes/) - Honda Click 125i 3100THB
+- [BSR Bikeshop](https://www.bsrbikeshop.com/#rentals-section) - Honda Click 3000THB
+- [Emma Motorbikes](http://www.emmamotorbikes.com/our-motorbikes) - prices not listed
+- [Generic](http://www.rentascooterbangkok.com) - Honda Click 125 3200THB
 
 Phuket
-- http://motorbikerentalphuket.com/phuket-bike-hire-rates/ - Honda Click 125 3000-4500THB - Honda PCX 150cc 9000THB
-- http://rentalmotorpatong.com/rent-motorbike-scooter-patong-phuket/  - prices not listed
-- http://www.phuket-motorbike-hire.co.uk/monthly-rentals - Honda Click 125i 4000-4500THB
-- https://www.motorbikehireinphuket.com/
+- [Real Motor Patong](http://rentalmotorpatong.com/rent-motorbike-scooter-patong-phuket/) - prices not listed - [cannot recommend](https://goo.gl/maps/NAKvxeUZrgz)
+- [Generic 1](http://motorbikerentalphuket.com/phuket-bike-hire-rates/) - Honda Click 125 3000-4500THB - Honda PCX 150cc 9000THB
+- [Generic 2](http://www.phuket-motorbike-hire.co.uk/monthly-rentals) - Honda Click 125i 4000-4500THB
+- [Generic 3](https://www.motorbikehireinphuket.com/)
 
 [Honda Click 125](http://bikez.com/motorcycles/honda_click_125i_2017.php)
 is 106kg, 124.8cc, 5.5 litre, 135mm gc
