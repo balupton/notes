@@ -99,10 +99,6 @@ Rent return flights (in case one is needed for a visa):
 
 ## Gear
 
-### Power
-
-- [Map for Power Socket Types](http://www.iec.ch/worldplugs/map.htm)
-
 ### Regulations
 
 [Carry On Guy](https://carryonguy.com/airline-baggage-rules/)
@@ -116,7 +112,7 @@ Rent return flights (in case one is needed for a visa):
 | aircanada              | 21 x 15 x 9 |
 | **average**            | 20 x 13 x 8 |
 
-#### Luggage
+### Luggage
 
 - [Laer](https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank#/)
 - [Pacsafe](http://www.pacsafe.com)
@@ -133,6 +129,10 @@ Rent return flights (in case one is needed for a visa):
 ### Clothing
 
 - [Exofficio](https://www.exofficio.com)
+
+### Power
+
+- [Map of Power Socket Types](http://www.iec.ch/worldplugs/map.htm)
 
 
 
