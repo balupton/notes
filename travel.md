@@ -144,6 +144,12 @@ Rent return flights (in case one is needed for a visa):
 
 ## Living
 
+### Communities
+
+- [Workfrom](https://workfrom.co)
+- [Remotive](http://remotive.io/community#plans)
+- [Wifi Tribe](http://wifitribe.co/)
+
 ### CoLiving
 
 - [Roam](https://www.roam.co)
@@ -155,11 +161,9 @@ Rent return flights (in case one is needed for a visa):
 - [Croissant](https://www.getcroissant.com)
 - [Sparedesk](https://www.sparedesk.co/?ref=producthunt)
 
-### Communities
+### Accomodation
 
-- [Workfrom](https://workfrom.co)
-- [Remotive](http://remotive.io/community#plans)
-- [Wifi Tribe](http://wifitribe.co/)
+- [Cryptocribs](https://www.cryptocribs.com)
 
 ### Home Swap
 
