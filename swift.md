@@ -36,7 +36,7 @@ Servers
 Server Technology
 
 - <https://console.ng.bluemix.net/catalog/>
-- <https://www.softlayer.com/Store/orderComputingInstance/1640,1644,2202 - $25/month>
+- <https://www.softlayer.com/Store/orderComputingInstance/1640,1644,2202> - $25/month
 
 Serverless
 
