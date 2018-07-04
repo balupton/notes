@@ -3,11 +3,6 @@ title: Swift
 date: 2017-01-11
 ---
 
-Misc
-
-- <https://github.com/oarrabi/Guaka>
-- <https://github.com/oarrabi/Swiftline>
-
 Learning
 
 - <http://learnswift.tips>
@@ -47,6 +42,11 @@ Dependencies
 
 - [Carthage](https://github.com/Carthage/Carthage)
 - <https://swiftpkgs.ng.bluemix.net>
+
+CLI
+
+- <https://github.com/oarrabi/Guaka>
+- <https://github.com/oarrabi/Swiftline>
 
 Static Site Generators
 
