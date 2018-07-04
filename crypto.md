@@ -65,6 +65,7 @@ published: true
 * [Crypto Panic](https://cryptopanic.com)
 * [Finimize](https://www.finimize.com) - [ios](https://www.finimize.com)
 * [Kyro](https://kyro.com/)
+* [The Dump](https://www.easycoinbuy.com/dump)
 * [Unblock](https://unblock.net)
 
 ### Learn Crypto
@@ -88,6 +89,7 @@ published: true
 * [Algorithmic Trading Strategies](https://en.wikipedia.org/wiki/Algorithmic_trading#Strategies)
 * [High Frequency Trading](https://en.wikipedia.org/wiki/High-frequency_trading)
 * [How to Invest like a VC](https://howtoinvestlikeavc.com)
+* [Investmate](https://capital.com/learn-trading-app) - 👍
 
 ### Practice Trading
 
@@ -145,6 +147,7 @@ These wallets are more or less identical:
 ### Tax
 
 * [CryptoTax](https://cryptotax.io)
+* [Cryptio](https://cryptio.co)
 
 ### Address Sharing
 
@@ -201,8 +204,10 @@ These wallets are more or less identical:
 * [Bitstamp](https://bitstamp.net)
 * [Bittrex](https://bittrex.com)
 * [Blockchain.info](https://blockchain.info)
+* [Blockport](https://blockport.io)
 * [BTCC](https://btcc.com)
 * [CEX](https://cex.io) - [referral](https://balupton.com/cex)
+* [Capital](https://capital.com) - does cryptocurrencies and other markets, such as stocks and whatnot
 * [Circle: Trade](https://www.circle.com/en/trade) - [referral](https://balupton.com/circle) - USA only 
 * [Cobinhood](https://cobinhood.com)
 * [CoinFalcon](https://coinfalcon.com) - [referral](https://balupton.com/coinfalcon)
@@ -225,6 +230,7 @@ These wallets are more or less identical:
 * [The Rock Trading](https://therocktrading.com)
 * [Trade.io](https://trade.io) - upcoming
 * [UpCoin](https://upcoin.com)
+* [XS2](https://xs2.exchange) - [referral](https://balupton.com/xs2)
 
 #### Decentralised
 
@@ -288,6 +294,7 @@ Portfolios track your money against the market
 * [Coinhodler](https://coinhodler.io)
 * [Coinloop](https://coinloop.io) - web
 * [Coinsapp](https://coinsapp.co) - dapp
+* [Combine](https://getcombine.com) - ios - 👍 also portfolio for your fiat accounts
 * [Cosmo](https://cosmoapp.io) - ios, android - 👎 slow
 * [Crypolio](https://crypol.io) - web
 * [Crypt Folio](https://cryptfolio.com) - web
@@ -298,6 +305,7 @@ Portfolios track your money against the market
 * [Crypto Price Widget](https://cryptopricewidget.com) [github](https://github.com/nathanp/crypto-price-widget) - windows, mac
 * [Crypto Pro](http://applewatchbitcoin.com) - ios, apple watch
 * [Crypto Roll Call](https://www.cryptorollcall.com) - web
+* [Crypto Space](https://itunes.apple.com/us/app/cryptospace/id1404450006) - ios - 👎 meh compared to the best
 * [Crypto View](https://github.com/anfederico/cryptoview) - mac
 * [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 includes alerts
 * [Cryptonomy](https://www.cryptonomynow.com) - ios
@@ -400,6 +408,7 @@ Developer Tools:
 * [Bitcoin Wisdom](https://bitcoinwisdom.com)
 * [CoinDance](https://coin.dance/stats) - all sorts of interesting data about crypto markets, governments, everything
 * [CoinFlash: Googlebot](https://coinflashapp.com/googlebot.html) - google trends
+* [CryptoBroom](https://cryptobroom.com) - sentiment analysis
 * [Crypto Whale Watching](https://github.com/pmaji/crypto-whale-watching-app) - python - tracks whale activity
 * [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis)
 * [Cryptocurrency Prediction](https://github.com/khuangaf/CryptocurrencyPrediction)
@@ -423,6 +432,7 @@ Signals tell you specifcally when to buy or sell
 * [CryptoCentral](https://cryptocentral.a) - signals for arbitrage trading
 * [CryptoML](https://crypto-ml.com)
 * [Signals](https://signals.network)
+* [Tradably](https://www.tradably.com) - ios, android - signal social network
 
 ### Alerts
 
@@ -549,6 +559,10 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [Numa](https://numaverse.com/)
 * [Peepeth](https://peepeth.com)
 
+### Charity
+
+* [Give Crypto](https://www.givecrypto.org)
+
 ### Shopping
 
 * [Accepting.io](https://accepting.io/)
@@ -571,6 +585,10 @@ Tools for making and testing strategies. You bring the data and strategies.
 
 * [ElioPay](https://eliopay.com)
 * [BitLaunch](https://bitlaunch.io)
+
+### Accomodation
+
+* [CryptoCribs](https://www.cryptocribs.com)
 
 ### Storage
 
