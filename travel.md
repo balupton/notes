@@ -3,11 +3,6 @@ title: Travel
 date: '2017-01-14'
 ---
 
-## Lists
-
-- [Travel Curated](https://www.travelcurated.com)
-
-
 
 ## Legal
 
