@@ -20,9 +20,9 @@ date: '2017-01-14'
 
 ### Visas
 
-- <https://nomadlist.com/#short_term_cost_in_usd=%3C%24750%2Fm&temperature=warm>
-- <https://www.thebasetrip.com/?ref=producthunt>
-- <https://www.visahq.com.au>
+- [Nomad List](https://nomadlist.com/#short_term_cost_in_usd=%3C%24750%2Fm&temperature=warm)
+- [The Base Trip](https://www.thebasetrip.com/?ref=producthunt)
+- [Visa HQ](https://www.visahq.com.au)
 
 ### Passports
 
@@ -93,7 +93,7 @@ Pay for your flight over a payment plan:
 
 Rent return flights (in case one is needed for a visa):
 
-- [Flyonward](https://flyonward.com/en/)
+- [Fly Onward](https://flyonward.com/en/)
 
 
 
@@ -157,7 +157,7 @@ Rent return flights (in case one is needed for a visa):
 
 ### Home Swap
 
-- [Home Swap](http://www.lovehomeswap.com/?ref=producthunt)
+- [LoveHomeSwap.com](http://www.lovehomeswap.com/?ref=producthunt)
 
 
 
