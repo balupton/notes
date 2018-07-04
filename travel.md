@@ -210,7 +210,7 @@ Rent return flights (in case one is needed for a visa):
     - <http://www.eta.gov.lk/slvisa/visainfo/fees.jsp>
     - <http://www.immigration.gov.lk>
     - <http://www.immigration.gov.lk/web/index.php?option=com_content&view=article&id=152&Itemid=197&lang=en>
-    - $40USD tourist visa **30 day **on arrival, renewable up to **6 months** (more than 3 months total will require valid reason)
+    - $40USD tourist visa **30 day on arrival, renewable up to 6 months** (more than 3 months total will require valid reason)
     - $35USD tourist visa 90 day prior
 
 ### India
