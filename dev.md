@@ -230,7 +230,7 @@ date: 2017-01-13
 ### Design
 
 - [Ding](https://ding.io)
-- [Sketch App Sources(http://www.sketchappsources.com/all-free-sources.html)
+- [Sketch App Sources](http://www.sketchappsources.com/all-free-sources.html)
 
 ### Learning
 
@@ -258,7 +258,7 @@ date: 2017-01-13
 ### Surveys
 - [Iterate](https://iteratehq.com)
 
-### [Hosts File](https://en.wikipedia.org/wiki/Hosts_(file)) Management
+### Hosts File Management
 - [Hozz](http://blog.zhangruipeng.me/Hozz/)
 
 ### Creation Attribution and Syndication
