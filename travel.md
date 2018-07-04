@@ -102,6 +102,25 @@ Rent return flights (in case one is needed for a visa):
 - [Fly Onward](https://flyonward.com/en/)
 
 
+### Simcards
+
+Global:
+
+- [Flexiroam](https://balupton.com/flexiroam)
+
+Thailand:
+
+- [Line Mobile Thailand](https://th.linemobile.com/en/referral_details)
+
+Malaysia:
+
+- [Yoodo](https://balupton.com/yoodo)
+
+Australia:
+
+- [Amaysim](https://balupton.com/amaysim) - for cities
+- [Boost](https://boost.com.au) - for outback
+
 
 ## Gear
 
