@@ -87,9 +87,10 @@ published: true
 ### Learn Trading
 
 * [Algorithmic Trading Strategies](https://en.wikipedia.org/wiki/Algorithmic_trading#Strategies)
+* [Capital's Investmate](https://capital.com/learn-trading-app) - 👍
+* [Capital's Finance Courses](https://capital.com/online-finance-courses)
 * [High Frequency Trading](https://en.wikipedia.org/wiki/High-frequency_trading)
 * [How to Invest like a VC](https://howtoinvestlikeavc.com)
-* [Investmate](https://capital.com/learn-trading-app) - 👍
 
 ### Practice Trading
 
