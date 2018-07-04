@@ -156,7 +156,7 @@ Australia:
 
 - If you find a business you like, add it to Google Maps. I would suggest adding to Apple Maps, but their process for adding things is too inconvenient to bother. The extra traffic a Google Maps addition will give them, can save their business and help put their son through school and university. True story.
 
-- If you are doing a flight longer than 8 hours. Wear a facial mask as soon as you sit down in the aeroplane - although inform the flight attendents you do it to prevent you from getting sick - as otherwise you will get some questioning. In all, I've found this helps me not get sick, and offers extra room as your seat neighbours don't really want to be bumping elbows with someone wearing a mask. Also drink a lot of water, hydration is also very important to make sure you don't get sick.
+- If you are doing a flight longer than 8 hours. Wear a facial mask as soon as you sit down in the aeroplane - although inform the flight attendents that you are doing so to help prevent yourself from getting sick - as otherwise you will get some questioning. In all, I've found this helps me not get sick, as well as offer extra room as your seat neighbours don't really want to be bumping elbows with someone wearing a mask. Also drink a lot of water, hydration is also very important to make sure you don't get sick.
 
     - Most budget airlines do not serve free water. However, they do serve free ice and free hot water. It'll let you figure out the rest.
 
