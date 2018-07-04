@@ -50,8 +50,8 @@ Dependencies
 
 Static Site Generators
 
-- [Spelt](https://spelt.io) - [docs](https://docs.spelt.io] - [github](https://github.com/njdehoog/Spelt)
-- [Zewo](https://zewo.io] - [docs](https://docs.zewo.io)
+- [Spelt](https://spelt.io) - [docs](https://docs.spelt.io) - [github](https://github.com/njdehoog/Spelt)
+- [Zewo](https://zewo.io) - [docs](https://docs.zewo.io)
 
 Async
 
