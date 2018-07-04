@@ -32,8 +32,6 @@ date: 2017-01-13
 - [Smashing Magazine](http://jobs.smashingmagazine.com/freelance/programming)
 - [Mithril](https://github.com/MithrilJS/mithril.js/wiki/JOBS)
 - [Latitude](https://www.latitude.work)
-- [Google](https://hire.google.com)
-- [Apple](https://jobs.apple.com/us/search?jobFunction=SFWEG)
 
 ### Communities
 
@@ -58,6 +56,9 @@ date: 2017-01-13
 - [N26](https://n26.com/jobs/)
 - [Serverless](https://serverless.com/company/jobs/)
 - [Hull](http://hull.io)
+- [Google](https://hire.google.com)
+- [Apple](https://jobs.apple.com/us/search?jobFunction=SFWEG)
+- [Tesla](https://www.tesla.com/en_AU/careers)
 
 
 ## Legal
