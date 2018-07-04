@@ -45,7 +45,7 @@ Saint Kitts and Nevis:
 - [Map](https://upload.wikimedia.org/wikipedia/commons/d/d5/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens.png)
 - [List](https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens)
 
-### Renouncing Australian Citizenship
+### Renouncing Australian Residency
 
 Resources:
 
