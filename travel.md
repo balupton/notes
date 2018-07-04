@@ -151,7 +151,7 @@ Veganism:
 - [Laer](https://www.indiegogo.com/projects/laer-a-laptop-sleeve-to-charge-all-your-devices-battery-powerbank#/)
 - [Pacsafe](http://www.pacsafe.com)
 - [Slicks](https://slicks.com/usx_en/trip-yellow.html) 52 x 32 x 20 cm
-- [Aer Travel Pack](https://www.aersf.com/travel-pack-00020) -55 x 13.5 x 8.5 cm
+- [Aer Travel Pack](https://www.aersf.com/travel-pack-00020) 55 x 13.5 x 8.5 cm
 - [Away](https://balupton.com/awaytravel)
 
 ### Wallets
