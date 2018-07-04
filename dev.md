@@ -6,9 +6,9 @@ date: 2017-01-13
 
 ## Jobs
 
-### Assistance
+### Advisors
 
-- [Boost](https://www.getboost.io)
+- [Job Start](https://www.jobstart.com)
 
 ### Networks
 
