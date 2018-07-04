@@ -46,6 +46,7 @@ Serverless
 Dependencies
 
 - [Carthage](https://github.com/Carthage/Carthage)
+- <https://swiftpkgs.ng.bluemix.net>
 
 Static Site Generators
 
@@ -114,13 +115,7 @@ Realtime Collaboration
 
 Watch
 
-- <https://www.udemy.com/apple-watch-tutorial/?couponCode=APPLE-WATCH-LIMITED>
-
-Learning
-
-Packages
-
-- <https://swiftpkgs.ng.bluemix.net>
+- [Udemy Tutorial](https://www.udemy.com/apple-watch-tutorial/?couponCode=APPLE-WATCH-LIMITED)
 
 Animation
 
