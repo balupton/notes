@@ -12,7 +12,7 @@ N26 Black:
 
 - [N26](https://balupton.com/n26)
 - [Email](mailto:n26@allianz-assistance.de)
-- [Phone](tel:+4989244414100)
+- Phone: +4989244414100
 
 ### Mailing
 
