@@ -35,7 +35,7 @@ date: 2017-01-13
 - [Google](https://hire.google.com)
 - [Apple](https://jobs.apple.com/us/search?jobFunction=SFWEG)
 
-### Slack
+### Communities
 
 - [Fenders Australia](https://fenders.slack.com/messages/jobs/)
 
