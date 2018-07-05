@@ -188,11 +188,25 @@ Veganism:
 ### CoWorking
 
 - [Croissant](https://www.getcroissant.com)
-- [Sparedesk](https://www.sparedesk.co/?ref=producthunt)
+- [Sparedesk](https://www.sparedesk.co)
+
+### CouchSurfing
+
+- [CouchSurfing.com](https://www.couchsurfing.com)
+- [HitchWiki](http://hitchwiki.org)
+
+### Socialising
+
+- [Facebook Local](https://itunes.apple.com/us/app/events-from-facebook-find/id1153443320?ls=1&mt=8)
+- [Meetup](https://www.meetup.com)
 
 ### Accomodation
 
-- [Cryptocribs](https://www.cryptocribs.com)
+- [Airbnb](https://balupton.com/airbnb) - has the most consumer protection
+- [Agoda](https://www.agoda.com) - popular in Asia
+- [Booking.com](https://booking.com) - popular in Asia
+- [Cryptocribs](https://www.cryptocribs.com) - self explanatory
+- [Traveloka](https://www.traveloka.com) - popular in Indonesia
 
 ### Home Swap
 
