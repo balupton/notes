@@ -201,7 +201,7 @@ These wallets are more or less identical:
 
 * [Binance](https://www.binance.com/en/trade/BTC_USDT)
 * [Bitfinex](https://bitfinex.com)
-* [BitMEX](https://www.bitmex.com)
+* [BitMEX](https://www.bitmex.com) - [referral](https://balupton.com/bitmex)
 * [Bitstamp](https://bitstamp.net)
 * [Bittrex](https://bittrex.com)
 * [Blockchain.info](https://blockchain.info)
@@ -432,7 +432,7 @@ Signals tell you specifcally when to buy or sell
 * [CoinFi](https://coinfi.com)
 * [CryptoCentral](https://cryptocentral.a) - signals for arbitrage trading
 * [CryptoML](https://crypto-ml.com)
-* [Signals](https://signals.network)
+* [Signals](https://signals.network) - [referral](https://balupton.com/referral)
 * [Tradably](https://www.tradably.com) - ios, android - signal social network
 
 ### Alerts
@@ -571,6 +571,7 @@ Tools for making and testing strategies. You bring the data and strategies.
 * [OpenBazaar](https://www.openbazaar.org)
 * [Oasis Direct](https://oasis.direct)
 * [Public Market](https://publicmarket.io)
+* [Purse](https://purse.io) - [referral](https://balupton.com/purse)
 * [Syscoin](http://www.syscoin.org)
 
 ### Email
