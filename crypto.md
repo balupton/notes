@@ -274,19 +274,19 @@ Portfolios track your money against the market
 * [Alt Pocket](https://altpocket.io) - web
 * [Apogee](https://www.apogeecrypto.com) - web - % on 24h and 7d
 * [Astronaut](http://www.astronaut.capital) - ios, android - 👍 + investment analysis on select ICOs - USA only
-* [Bit Universe](https://www.bituniverse.org) - ios, android - 👍
+* [BitUniverse](https://www.bituniverse.org) - ios, android - 👍
 * [Bitfolio](https://bitfolio.app) - ios, android - 👍
-* [Bitworth](https://bitworth.io) - ios - 👍
-* [Block Keeper](https://blockkeeper.io)
-* [Block Tray](https://www.blocktray.com) - web
+* [Bitworth](http://bitworth.io) - ios - 👍
+* [BlockKeeper](https://blockkeeper.io)
+* [BlockTray](https://www.blocktray.com) - web
 * [Blockfolio](https://blockfolio.com) - ios, android - 👍
-* [Coin Folio](https://www.coin-folio.com) - web - 👎 bad ux
-* [Coin FYI](https://coin.fyi) - web
-* [Coin Gecko](https://www.coingecko.com/en) - web
-* [Coin Stats](https://coinstats.app) - web, mac, ios, android - 👍
-* [Coin Tracker.cash](https://cointracker.cash) - ios, android - 👎 basic
-* [Coin Tracker.io](https://www.cointracker.io) - web
-* [Coin Tracking](https://cointracking.info) - web, ios - 👎 meh ux
+* [CoinFolio](https://www.coin-folio.com) - web - 👎 bad ux
+* [CoinFYI](https://coin.fyi) - web
+* [CoinGecko](https://www.coingecko.com/en) - web
+* [Coinstats](https://coinstats.app) - [referral](https://balupton.com/coinstats) - web, mac, ios, android - 👍
+* [CoinTracker.cash](https://cointracker.cash) - ios, android - 👎 basic
+* [CoinTracker.io](https://www.cointracker.io) - web
+* [CoinTracking](https://cointracking.info) - web, ios - 👎 meh ux
 * [Coincall](https://coincall.io) - web
 * [Coincap](https://coincap.io) - ios, android - 👎 no dates for holdings
 * [Coindar](https://coindar.org/coins/) - web + [news api](https://coindar.org/en/api)
@@ -318,7 +318,7 @@ Portfolios track your money against the market
 * [Moonstats](https://www.moonstats.com) - web, ios - paid
 * [Moonwatch](https://moonwat.ch) - web, ios - paid
 * [Sickey](https://www.sickey.io/)
-* [TabTrader](https://tab-trader.com) - ios - comprehensive
+* [TabTrader](https://tab-trader.com) - android, ios - supports nearly every exchange, can also place trades
 * [Wallmine](https://wallmine.com) - web - 👍 + stock + heatmap
 * [Whale Folio](https://www.whalefolio.com) - ios, android
 
