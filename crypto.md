@@ -311,7 +311,7 @@ Portfolios track your money against the market
 * [Cryptonaut](https://www.cryptonaut.org) - ios, android - 👍 includes alerts
 * [Cryptonomy](https://www.cryptonomynow.com) - ios
 * [Delta](https://getdelta.io) - mac, windows, linux, ios, android - 👍
-* [Donut](https://www.etherbit.in/pages/donut) - [source](https://github.com/EtherbitHQ/donut) - mac, windows, linux
+* [Donut](https://www.etherbit.in/pages/donut) - [source](https://github.com/EtherbitHQ/donut) - mac, windows, linux - 👍
 * [Fintab](https://fintab.i) - web, ios, android
 * [Lionshare](https://github.com/lionsharecapital/lionshare-desktop) open-source - ios, mac
 * [Moonlio](https://www.moonlio.io) - web
