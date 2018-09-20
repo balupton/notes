@@ -221,12 +221,12 @@ These wallets are more or less identical:
 * [Independent Reserve](https://www.independentreserve.com)
 * [itBit](https://itbit.com)
 * [Kraken](https://kraken.com)
+* [Liquid](https://liquid.com) - [referral](https://balupton.com/liquid)
 * [Luno Exchange](https://www.luno.com/en/exchange) - [referral](https://balupton.com/luno)
 * [Lykke](https://www.lykke.com) - wallet is only BTC+ETH, exchange supports more
 * [OKCoin](https://okcoin.com)
 * [Peatio](https://www.peatio.tech)
 * [Poloniex](https://poloniex.com)
-* [Quoinex](https://quoinex.com) - [referral](https://balupton.com/quoinex)
 * [Robinhood: Crypto](https://crypto.robinhood.com) - USA only
 * [The Rock Trading](https://therocktrading.com)
 * [Trade.io](https://trade.io) - upcoming
