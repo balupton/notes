@@ -238,7 +238,7 @@ is 92kg, 113.7cc, 3.7l, 130mm gc
 ### Thailand
 
 Which Bike?
-- [Cat Motors Advice](http://catmotors.net/advices-on-the-choice-of-motorbike/>)
+- [Cat Motors Advice](http://catmotors.net/advices-on-the-choice-of-motorbike/)
 
 Routes
 - [BSR Bikeshop Routes](https://www.bsrbikeshop.com/tour-route/)
