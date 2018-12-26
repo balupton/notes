@@ -340,6 +340,7 @@ Tickers track only the market and not your own money.
 * [Bstreet](http://www.bstreet.io)
 * [Coin360](https://coin360.io) - web - 👍 - heatmap
 * [CoinCap](https://coincap.io) - web
+* [CoinLore](https://www.coinlore.com) - web - % on 1h/24h/7d/1m, news, technical indicators
 * [CoinMon](https://github.com/bichenkk/coinmon) - terminal
 * [CoinNirvana](https://www.cryptonirvana.com) - web - 👍 - clean, realtime, market cap, % on hour, day, week
 * [CoinPare](https://github.com/piotrmurach/coinpare) - terminal
