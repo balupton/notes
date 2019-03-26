@@ -70,6 +70,7 @@ published: true
 
 ### Learn Crypto
 
+* [CryptoManiaks](https://cryptomaniaks.com)
 * [Aysha.io](https://aysha.io)
 * [Ben.co Learning](https://ben.co/lessons)
 * [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
