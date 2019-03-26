@@ -78,6 +78,7 @@ published: true
 * [Blockahin Tutorial](https://blockchain.liuchengxu.org)
 * [Coin Lector](https://www.coinlector.com)
 * [Coined.news](http://coined.news)
+* [Cryptomaniaks](https://cryptomaniaks.com)
 * [Crypto Ground](https://www.cryptoground.com/guide)
 * [Crypto Minded](https://cryptominded.com)
 * [Crypto Stack](https://cryptostack.xyz)
