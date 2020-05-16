@@ -67,6 +67,7 @@ published: true
 * [Kyro](https://kyro.com/)
 * [The Dump](https://www.easycoinbuy.com/dump)
 * [Unblock](https://unblock.net)
+* [The Crypto Paper](https://thecryptopaper.com)
 
 ### Learn Crypto
 
@@ -84,6 +85,7 @@ published: true
 * [Crypto Stack](https://cryptostack.xyz)
 * [Crypto Timeline](https://cryptotimeline.com)
 * [Wallet Genuis](https://thewalletgenius.com/)
+* [CoinGrades](https://coingrades.us)
 
 ### Learn Trading
 
