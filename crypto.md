@@ -268,6 +268,7 @@ Upcoming exchanges that currently only offer tokens:
 * [Earn.com: Bitcoin Fees](https://bitcoinfees.earn.com)
 * [Peregrine](https://github.com/wardbradt/peregrine)
 * [Rate.sx](http://rate.sx) - [source](https://github.com/chubin/rate.sx)
+* [ExchangeRates.Pro](https://exchangerates.pro) - Bitcoin and Crypto price comparison in 255 countries
 
 ### Portfolios
 
